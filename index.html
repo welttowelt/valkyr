@@ -1,0 +1,589 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Valkyr</title>
+    <style>
+      @font-face {
+        font-family: "terminal-display";
+        font-style: normal;
+        src: url("./assets/terminal-display.woff2") format("woff2");
+        font-display: swap;
+      }
+
+      :root {
+        --bg: #000000;
+        --panel: #060706;
+        --frame: #0b0f0b;
+        --terminal: #72fe7d;
+        --terminal-soft: #4fd658;
+        --terminal-dim: #2e7f34;
+        --bad: #ff4c63;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        min-height: 100%;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: "terminal-display", monospace;
+        color: var(--terminal);
+        background:
+          radial-gradient(circle at 100% -15%, rgba(114, 254, 125, 0.1) 0%, transparent 45%),
+          radial-gradient(circle at 0% 120%, rgba(114, 254, 125, 0.08) 0%, transparent 35%),
+          var(--bg);
+        letter-spacing: 0.02em;
+      }
+
+      body::before {
+        content: "";
+        position: fixed;
+        top: -200%;
+        left: 0;
+        width: 100%;
+        height: 200%;
+        pointer-events: none;
+        background: linear-gradient(to bottom, transparent 48%, rgba(255, 255, 255, 0.06) 50%, transparent 52%);
+        animation: scanline 6s linear infinite;
+        z-index: 9;
+      }
+
+      body::after {
+        content: "";
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        background: linear-gradient(to bottom, transparent 50%, rgba(0, 0, 0, 0.48) 51%);
+        background-size: 100% 4px;
+        opacity: 0.32;
+        z-index: 8;
+      }
+
+      @keyframes scanline {
+        from {
+          transform: translateY(0);
+        }
+        to {
+          transform: translateY(240%);
+        }
+      }
+
+      main {
+        position: relative;
+        z-index: 10;
+        width: min(1460px, 94vw);
+        margin: 1.6rem auto;
+        padding: 1.2rem;
+        border: 2px solid var(--terminal);
+        background:
+          linear-gradient(rgba(114, 254, 125, 0.05), rgba(0, 0, 0, 0)),
+          var(--frame);
+        box-shadow:
+          0 0 0 1px #121712 inset,
+          0 0 26px rgba(114, 254, 125, 0.2);
+      }
+
+      .frame-badge {
+        position: fixed;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 11;
+        color: var(--terminal);
+        opacity: 0.85;
+        font-size: 0.75rem;
+        text-shadow: 0 0 8px rgba(114, 254, 125, 0.35);
+      }
+
+      .frame-badge-top {
+        top: 0.38rem;
+      }
+
+      .frame-badge-bottom {
+        bottom: 0.36rem;
+      }
+
+      .frame-side {
+        position: fixed;
+        top: 50%;
+        z-index: 11;
+        writing-mode: vertical-rl;
+        transform: rotate(180deg) translateY(50%);
+        color: var(--terminal-soft);
+        font-size: 0.74rem;
+        opacity: 0.8;
+        text-shadow: 0 0 8px rgba(114, 254, 125, 0.25);
+      }
+
+      .frame-side-left {
+        left: 0.52rem;
+      }
+
+      .frame-side-right {
+        right: 0.52rem;
+      }
+
+      .boot-line {
+        margin: 0 0 0.26rem;
+        font-size: 1rem;
+        color: var(--terminal);
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(2.2rem, 4.2vw, 3.8rem);
+        letter-spacing: 0.06em;
+        color: var(--terminal);
+        text-shadow: 0 0 14px rgba(114, 254, 125, 0.5);
+        text-transform: uppercase;
+      }
+
+      .subtitle {
+        margin: 0.35rem 0 1rem;
+        font-size: 0.92rem;
+        color: var(--terminal-soft);
+        text-shadow: 0 0 8px rgba(114, 254, 125, 0.25);
+      }
+
+      .phase-line {
+        margin: -0.35rem 0 1rem;
+        color: var(--terminal);
+        opacity: 0.88;
+        font-size: 0.76rem;
+      }
+
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.55rem;
+        margin-bottom: 0.85rem;
+      }
+
+      .chip {
+        font-size: 0.72rem;
+        border: 1px solid var(--terminal-dim);
+        border-radius: 0;
+        padding: 0.22rem 0.45rem;
+        color: var(--terminal-soft);
+        background: rgba(114, 254, 125, 0.04);
+        text-transform: lowercase;
+      }
+
+      .spotlight {
+        border: 2px solid var(--terminal);
+        background: #010201;
+        margin: 0.45rem 0 0.95rem;
+        padding: 0.55rem;
+        box-shadow: inset 0 0 0 1px rgba(114, 254, 125, 0.15);
+      }
+
+      .spotlight-head {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        gap: 0.45rem;
+        margin-bottom: 0.4rem;
+      }
+
+      .spotlight-title {
+        margin: 0;
+        font-size: 1.08rem;
+        color: var(--terminal);
+        text-shadow: 0 0 8px rgba(114, 254, 125, 0.25);
+      }
+
+      .spotlight-title::before {
+        content: "> ";
+      }
+
+      .spotlight-sub {
+        margin: 0;
+        font-size: 0.74rem;
+        color: var(--terminal-soft);
+        opacity: 0.9;
+      }
+
+      .spotlight-link {
+        font-size: 0.72rem;
+        color: var(--terminal-soft);
+        text-decoration: none;
+        border-bottom: 1px dashed rgba(114, 254, 125, 0.35);
+        text-transform: lowercase;
+      }
+
+      .spotlight-link:hover {
+        color: var(--terminal);
+        border-bottom-color: var(--terminal);
+      }
+
+      .spotlight-frame {
+        border: 2px solid var(--terminal-dim);
+        background: #000;
+      }
+
+      .spotlight-frame iframe {
+        height: 430px;
+      }
+
+      #status {
+        color: var(--terminal-soft);
+        margin: 0 0 0.95rem;
+        font-size: 0.78rem;
+      }
+
+      .cards {
+        display: grid;
+        gap: 0.9rem;
+      }
+
+      .card {
+        background: var(--panel);
+        border: 2px solid var(--terminal-dim);
+        border-radius: 0;
+        padding: 0.65rem;
+        box-shadow: inset 0 0 0 1px rgba(114, 254, 125, 0.16);
+      }
+
+      .card-head {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        gap: 0.55rem;
+        margin-bottom: 0.55rem;
+      }
+
+      .pair {
+        margin: 0;
+        font-size: 1.45rem;
+        line-height: 1;
+        text-shadow: 0 0 8px rgba(114, 254, 125, 0.25);
+        text-transform: uppercase;
+      }
+
+      .pair::before {
+        content: "> ";
+        color: var(--terminal);
+      }
+
+      .pair-link {
+        color: var(--terminal-soft);
+        text-decoration: none;
+        font-size: 0.74rem;
+        display: inline-block;
+        margin-top: 0.15rem;
+        border-bottom: 1px dashed rgba(114, 254, 125, 0.35);
+        text-transform: lowercase;
+      }
+
+      .pair-link:hover {
+        color: var(--terminal);
+        border-bottom-color: var(--terminal);
+      }
+
+      .pair-stats {
+        display: flex;
+        gap: 0.68rem;
+        flex-wrap: wrap;
+        align-items: center;
+        font-size: 0.78rem;
+        color: var(--terminal-soft);
+      }
+
+      .change.good {
+        color: var(--terminal);
+      }
+
+      .change.bad {
+        color: var(--bad);
+      }
+
+      .chart-grid {
+        display: grid;
+        gap: 0.75rem;
+      }
+
+      .chart-panel {
+        border: 2px solid var(--terminal-dim);
+        border-radius: 0;
+        overflow: hidden;
+        background: #010201;
+      }
+
+      .chart-label {
+        margin: 0;
+        padding: 0.36rem 0.48rem;
+        font-size: 0.78rem;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        color: var(--terminal);
+        border-bottom: 1px solid var(--terminal-dim);
+        background: #030603;
+      }
+
+      .chart-label::before {
+        content: "> ";
+      }
+
+      iframe {
+        width: 100%;
+        border: 0;
+        height: 365px;
+        display: block;
+        background: #000;
+      }
+
+      @media (min-width: 1100px) {
+        .chart-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+
+      @media (max-width: 640px) {
+        .frame-side {
+          display: none;
+        }
+
+        main {
+          margin: 0.8rem auto;
+          padding: 0.6rem;
+        }
+
+        .card {
+          padding: 0.5rem;
+        }
+
+        .pair {
+          font-size: 1.2rem;
+        }
+
+        .spotlight-frame iframe {
+          height: 320px;
+        }
+
+        iframe {
+          height: 300px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <span class="frame-badge frame-badge-top">Valkyr</span>
+    <span class="frame-badge frame-badge-bottom">market board</span>
+    <span class="frame-side frame-side-left">potion prices terminal_</span>
+    <span class="frame-side frame-side-right">starknet summit economy_</span>
+    <main>
+      <p class="boot-line">&gt; v4lkyr_p07i0n_7erm1n4l_</p>
+      <h1>Valkyr</h1>
+      <p class="subtitle">Potion prices for the Summit economy, 1D and 1W charts</p>
+      <p class="phase-line">Everything happens in phases_</p>
+      <div class="meta">
+        <span class="chip">Chain: starknet</span>
+        <span class="chip">Source: Dexscreener</span>
+        <span class="chip">Auto refresh metadata: 60s</span>
+      </div>
+      <section class="spotlight">
+        <header class="spotlight-head">
+          <div>
+            <h2 class="spotlight-title">Survivor chart</h2>
+            <p class="spotlight-sub">Daily candles, target range since October 2025</p>
+          </div>
+          <a
+            class="spotlight-link"
+            href="https://dexscreener.com/starknet/0x042dd777885ad2c116be96d4d634abc90a26a790ffb5871e037dd5ae7d2ec86b-0x053c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8-3402823669209384634633746074317682114-354892-0x043e4f09c32d13d43a880e85f69f7de93ceda62d6cf2581a582c6db635548fdc"
+            target="_blank"
+            rel="noreferrer"
+          >open on dexscreener</a>
+        </header>
+        <div class="spotlight-frame">
+          <iframe
+            id="survivor-spotlight-chart"
+            loading="lazy"
+            title="Survivor daily chart"
+            referrerpolicy="no-referrer"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </section>
+      <p id="status">loading valkyr pairs_</p>
+      <section id="cards" class="cards"></section>
+    </main>
+
+    <script>
+      const SURVIVOR_SPOTLIGHT_URL =
+        "https://dexscreener.com/starknet/0x042dd777885ad2c116be96d4d634abc90a26a790ffb5871e037dd5ae7d2ec86b-0x053c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8-3402823669209384634633746074317682114-354892-0x043e4f09c32d13d43a880e85f69f7de93ceda62d6cf2581a582c6db635548fdc";
+      const PAIR_URLS = [
+        "https://dexscreener.com/starknet/0x029023e0a455d19d6887bc13727356070089527b79e6feb562ffe1afd6711dbe-0x042dd777885ad2c116be96d4d634abc90a26a790ffb5871e037dd5ae7d2ec86b-17014118346046924117642026945517453312-354892-0x043e4f09c32d13d43a880e85f69f7de93ceda62d6cf2581a582c6db635548fdc",
+        "https://dexscreener.com/starknet/0x042dd777885ad2c116be96d4d634abc90a26a790ffb5871e037dd5ae7d2ec86b-0x049eaed2a1ba2f2eb6ac2661ffd2d79231cdd7d5293d9448df49c5986c9897ae-17014118346046924117642026945517453312-354892-0x043e4f09c32d13d43a880e85f69f7de93ceda62d6cf2581a582c6db635548fdc",
+        "https://dexscreener.com/starknet/0x016f9def00daef9f1874dd932b081096f50aec2fe61df31a81bc5707a7522443-0x042dd777885ad2c116be96d4d634abc90a26a790ffb5871e037dd5ae7d2ec86b-17014118346046924117642026945517453312-354892-0x043e4f09c32d13d43a880e85f69f7de93ceda62d6cf2581a582c6db635548fdc",
+        "https://dexscreener.com/starknet/0x016dea82a6588ca9fb7200125fa05631b1c1735a313e24afe9c90301e441a796-0x042dd777885ad2c116be96d4d634abc90a26a790ffb5871e037dd5ae7d2ec86b-17014118346046924117642026945517453312-354892-0x043e4f09c32d13d43a880e85f69f7de93ceda62d6cf2581a582c6db635548fdc",
+        "https://dexscreener.com/starknet/0x0103eafe79f8631932530cc687dfcdeb013c883a82619ebf81be393e2953a87a-0x042dd777885ad2c116be96d4d634abc90a26a790ffb5871e037dd5ae7d2ec86b-17014118346046923173168730371588410572-354892-0x043e4f09c32d13d43a880e85f69f7de93ceda62d6cf2581a582c6db635548fdc",
+        "https://dexscreener.com/starknet/0x01c3c8284d7eed443b42f47e764032a56eaf50a9079d67993b633930e3689814-0x042dd777885ad2c116be96d4d634abc90a26a790ffb5871e037dd5ae7d2ec86b-17014118346046923173168730371588410572-354892-0x043e4f09c32d13d43a880e85f69f7de93ceda62d6cf2581a582c6db635548fdc"
+      ];
+
+      const CHAIN_ID = "starknet";
+      const META_REFRESH_MS = 60_000;
+
+      function getPairId(url) {
+        const pathname = new URL(url).pathname;
+        return pathname.slice(pathname.lastIndexOf("/") + 1);
+      }
+
+      function formatUsd(value) {
+        const number = Number(value);
+        if (!Number.isFinite(number)) return "n/a";
+        if (number >= 1) return `$${number.toLocaleString(undefined, { maximumFractionDigits: 4 })}`;
+        return `$${number.toFixed(8)}`;
+      }
+
+      function formatPct(value) {
+        const number = Number(value);
+        if (!Number.isFinite(number)) return "n/a";
+        return `${number > 0 ? "+" : ""}${number.toFixed(2)}%`;
+      }
+
+      function buildEmbedUrl(baseUrl, interval) {
+        const url = new URL(baseUrl);
+        url.searchParams.set("embed", "1");
+        url.searchParams.set("theme", "dark");
+        url.searchParams.set("trades", "0");
+        url.searchParams.set("info", "0");
+        url.searchParams.set("chartLeftToolbar", "0");
+        url.searchParams.set("chartTimeframesToolbar", "0");
+        url.searchParams.set("chartDefaultOnMobile", "1");
+        url.searchParams.set("loadChartSettings", "0");
+        url.searchParams.set("interval", interval);
+        return url.toString();
+      }
+
+      function buildSpotlightUrl(baseUrl) {
+        const url = new URL(baseUrl);
+        url.searchParams.set("embed", "1");
+        url.searchParams.set("theme", "dark");
+        url.searchParams.set("chartTheme", "dark");
+        url.searchParams.set("trades", "0");
+        url.searchParams.set("info", "0");
+        url.searchParams.set("chartLeftToolbar", "0");
+        url.searchParams.set("chartTimeframesToolbar", "0");
+        url.searchParams.set("chartDefaultOnMobile", "1");
+        url.searchParams.set("loadChartSettings", "0");
+        url.searchParams.set("interval", "1D");
+        // Best-effort hint: October last year in UTC seconds (2025-10-01).
+        url.searchParams.set("from", "1759276800");
+        return url.toString();
+      }
+
+      function renderCards(pairs) {
+        const cards = document.getElementById("cards");
+        cards.innerHTML = "";
+
+        for (const pair of pairs) {
+          const title = pair.meta
+            ? `${pair.meta.baseToken.symbol} / ${pair.meta.quoteToken.symbol}`
+            : `Pair ${pair.pairId.slice(0, 10)}...`;
+
+          const price = pair.meta ? formatUsd(pair.meta.priceUsd) : "n/a";
+          const change = pair.meta ? formatPct(pair.meta.priceChange?.h24) : "n/a";
+          const changeClass = pair.meta && Number(pair.meta.priceChange?.h24) >= 0 ? "good" : "bad";
+
+          const card = document.createElement("article");
+          card.className = "card";
+          card.innerHTML = `
+            <header class="card-head">
+              <div>
+                <h2 class="pair">${title}</h2>
+                <a class="pair-link" href="${pair.url}" target="_blank" rel="noreferrer">Open on Dexscreener</a>
+              </div>
+              <div class="pair-stats">
+                <span>Price: ${price}</span>
+                <span class="change ${changeClass}">24h: ${change}</span>
+              </div>
+            </header>
+            <div class="chart-grid">
+              <section class="chart-panel">
+                <p class="chart-label">Daily (1H)</p>
+                <iframe
+                  src="${buildEmbedUrl(pair.url, "60")}" 
+                  loading="lazy"
+                  title="${title} daily chart"
+                  referrerpolicy="no-referrer"
+                  allowfullscreen
+                ></iframe>
+              </section>
+              <section class="chart-panel">
+                <p class="chart-label">Weekly (1D)</p>
+                <iframe
+                  src="${buildEmbedUrl(pair.url, "1D")}" 
+                  loading="lazy"
+                  title="${title} weekly chart"
+                  referrerpolicy="no-referrer"
+                  allowfullscreen
+                ></iframe>
+              </section>
+            </div>
+          `;
+
+          cards.appendChild(card);
+        }
+      }
+
+      async function loadMetaForPair(pair) {
+        const endpoint = `https://api.dexscreener.com/latest/dex/pairs/${CHAIN_ID}/${encodeURIComponent(pair.pairId)}`;
+        const response = await fetch(endpoint);
+        if (!response.ok) throw new Error(`Metadata request failed (${response.status})`);
+        const body = await response.json();
+        return body.pairs?.[0] || null;
+      }
+
+      async function refreshPairs(basePairs) {
+        const status = document.getElementById("status");
+        status.textContent = "refreshing prices_";
+
+        const withMeta = await Promise.all(
+          basePairs.map(async (pair) => {
+            try {
+              const meta = await loadMetaForPair(pair);
+              return { ...pair, meta };
+            } catch (error) {
+              console.error(`Failed to load pair metadata for ${pair.pairId}`, error);
+              return { ...pair, meta: null };
+            }
+          })
+        );
+
+        renderCards(withMeta);
+
+        const successful = withMeta.filter((pair) => pair.meta).length;
+        status.textContent = `updated ${successful}/${withMeta.length} pairs at ${new Date().toLocaleTimeString()}_`;
+      }
+
+      async function init() {
+        const spotlightChart = document.getElementById("survivor-spotlight-chart");
+        if (spotlightChart) {
+          spotlightChart.src = buildSpotlightUrl(SURVIVOR_SPOTLIGHT_URL);
+        }
+
+        const pairs = PAIR_URLS.map((url) => ({
+          url,
+          pairId: getPairId(url)
+        }));
+
+        await refreshPairs(pairs);
+        setInterval(() => refreshPairs(pairs), META_REFRESH_MS);
+      }
+
+      init().catch((error) => {
+        console.error(error);
+        document.getElementById("status").textContent = "failed to load dashboard_";
+      });
+    </script>
+  </body>
+</html>
