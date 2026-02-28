@@ -212,6 +212,29 @@
         margin: 0 0 0.5rem;
         font-size: 0.72rem;
         color: var(--terminal-soft);
+        line-height: 1.35;
+      }
+
+      .history-legend {
+        display: flex;
+        gap: 0.9rem;
+        flex-wrap: wrap;
+        padding: 0.3rem 0.5rem 0.15rem;
+        border-bottom: 1px solid rgba(114, 254, 125, 0.2);
+      }
+
+      .history-legend-item {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        font-size: 0.68rem;
+        color: var(--terminal-soft);
+      }
+
+      .history-legend-swatch {
+        width: 14px;
+        height: 2px;
+        display: inline-block;
       }
 
       .spotlight-head {
@@ -439,6 +462,17 @@
         <div class="history-grid">
           <section class="history-panel">
             <p class="chart-label">Attack / Revive / Poison</p>
+            <div class="history-legend" aria-hidden="true">
+              <span class="history-legend-item"
+                ><span class="history-legend-swatch" style="background:#50f0ff"></span>Attack</span
+              >
+              <span class="history-legend-item"
+                ><span class="history-legend-swatch" style="background:#ff5b5b"></span>Revive</span
+              >
+              <span class="history-legend-item"
+                ><span class="history-legend-swatch" style="background:#8fff4b"></span>Poison</span
+              >
+            </div>
             <div id="history-main" class="history-chart"></div>
           </section>
           <section class="history-panel">
@@ -563,6 +597,17 @@
           .sort((a, b) => Date.parse(a.timestamp) - Date.parse(b.timestamp));
       }
 
+      function formatHistoryShort(ts) {
+        const dt = new Date(ts);
+        if (Number.isNaN(dt.getTime())) return ts;
+        return dt.toLocaleString(undefined, {
+          month: "short",
+          day: "2-digit",
+          hour: "2-digit",
+          minute: "2-digit"
+        });
+      }
+
       async function loadPotionHistory() {
         const status = document.getElementById("history-status");
         try {
@@ -587,21 +632,36 @@
             throw new Error("Plotly failed to load");
           }
 
-          const times = rows.map((row) => row.timestamp);
+          const times = rows.map((row) => new Date(row.timestamp));
           const layoutBase = {
             paper_bgcolor: "rgba(0,0,0,0)",
             plot_bgcolor: "rgba(0,0,0,0)",
-            font: { color: "#72fe7d", family: '"terminal-display", monospace', size: 11 },
-            margin: { l: 44, r: 10, t: 18, b: 36 },
+            font: { color: "#72fe7d", family: '"terminal-display", monospace', size: 12 },
+            margin: { l: 74, r: 18, t: 54, b: 48 },
+            hovermode: "x unified",
+            hoverlabel: {
+              bgcolor: "#0b1a0b",
+              bordercolor: "#72fe7d",
+              font: { family: '"terminal-display", monospace', size: 11, color: "#72fe7d" }
+            },
             xaxis: {
+              type: "date",
               gridcolor: "rgba(114,254,125,0.14)",
-              tickfont: { color: "#4fd658", size: 10 }
+              tickfont: { color: "#4fd658", size: 11 },
+              automargin: true,
+              tickformat: "%b %d",
+              hoverformat: "%b %d, %H:%M",
+              nticks: 7
             },
             yaxis: {
               gridcolor: "rgba(114,254,125,0.14)",
-              tickfont: { color: "#4fd658", size: 10 }
+              tickfont: { color: "#4fd658", size: 11 },
+              automargin: true,
+              tickformat: "~s",
+              separatethousands: true,
+              ticksuffix: " "
             },
-            legend: { orientation: "h", y: 1.08, x: 0, font: { size: 10 } }
+            showlegend: false
           };
           const config = { responsive: true, displaylogo: false, displayModeBar: false };
 
@@ -614,7 +674,8 @@
                 type: "scatter",
                 mode: "lines",
                 name: "Attack",
-                line: { color: "#50f0ff", width: 2 }
+                line: { color: "#50f0ff", width: 2.4 },
+                hovertemplate: "Attack: %{y:,.0f}<extra></extra>"
               },
               {
                 x: times,
@@ -622,7 +683,8 @@
                 type: "scatter",
                 mode: "lines",
                 name: "Revive",
-                line: { color: "#ff5b5b", width: 2 }
+                line: { color: "#ff5b5b", width: 2.4 },
+                hovertemplate: "Revive: %{y:,.0f}<extra></extra>"
               },
               {
                 x: times,
@@ -630,7 +692,8 @@
                 type: "scatter",
                 mode: "lines",
                 name: "Poison",
-                line: { color: "#8fff4b", width: 2 }
+                line: { color: "#8fff4b", width: 2.4 },
+                hovertemplate: "Poison: %{y:,.0f}<extra></extra>"
               }
             ],
             layoutBase,
@@ -646,14 +709,23 @@
                 type: "scatter",
                 mode: "lines",
                 name: "Extra Life",
-                line: { color: "#ff7ff8", width: 2 }
+                line: { color: "#ff7ff8", width: 2.6 },
+                hovertemplate: "Extra Life: %{y:,.0f}<extra></extra>"
               }
             ],
-            layoutBase,
+            {
+              ...layoutBase,
+              yaxis: {
+                ...layoutBase.yaxis,
+                tickformat: "~s",
+                nticks: 6
+              }
+            },
             config
           );
 
-          status.textContent = `history ready (${source}): ${rows.length} points (${rows[0].timestamp} -> ${rows[rows.length - 1].timestamp})_`;
+          status.textContent =
+            `history ready (${source}) | ${rows.length} points | ${formatHistoryShort(rows[0].timestamp)} -> ${formatHistoryShort(rows[rows.length - 1].timestamp)}_`;
         } catch (error) {
           console.error("Failed to load potion history", error);
           status.textContent = "history unavailable_";
