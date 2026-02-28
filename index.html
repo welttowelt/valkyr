@@ -474,6 +474,7 @@
       <section id="cards" class="cards"></section>
     </main>
 
+    <script src="./assets/data/global-stats-backfill.js"></script>
     <script>
       const SURVIVOR_SPOTLIGHT_URL =
         "https://dexscreener.com/starknet/0x042dd777885ad2c116be96d4d634abc90a26a790ffb5871e037dd5ae7d2ec86b-0x053c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8-3402823669209384634633746074317682114-354892-0x043e4f09c32d13d43a880e85f69f7de93ceda62d6cf2581a582c6db635548fdc";
@@ -556,16 +557,29 @@
         return rows;
       }
 
+      function normalizeHistoryRows(rows) {
+        return rows
+          .filter((row) => row && row.timestamp && row.consumables)
+          .sort((a, b) => Date.parse(a.timestamp) - Date.parse(b.timestamp));
+      }
+
       async function loadPotionHistory() {
         const status = document.getElementById("history-status");
         try {
-          const response = await fetch(POTION_HISTORY_URL, { cache: "no-store" });
-          if (!response.ok) {
-            throw new Error(`History request failed (${response.status})`);
-          }
+          let rows = [];
+          let source = "embedded";
 
-          const raw = await response.text();
-          const rows = parseHistoryRows(raw);
+          if (Array.isArray(window.VALKYR_POTION_HISTORY) && window.VALKYR_POTION_HISTORY.length > 0) {
+            rows = normalizeHistoryRows(window.VALKYR_POTION_HISTORY);
+          } else {
+            source = "jsonl";
+            const response = await fetch(POTION_HISTORY_URL, { cache: "no-store" });
+            if (!response.ok) {
+              throw new Error(`History request failed (${response.status})`);
+            }
+            const raw = await response.text();
+            rows = parseHistoryRows(raw);
+          }
           if (!rows.length) {
             throw new Error("No valid history rows");
           }
@@ -639,7 +653,7 @@
             config
           );
 
-          status.textContent = `history ready: ${rows.length} points (${rows[0].timestamp} -> ${rows[rows.length - 1].timestamp})_`;
+          status.textContent = `history ready (${source}): ${rows.length} points (${rows[0].timestamp} -> ${rows[rows.length - 1].timestamp})_`;
         } catch (error) {
           console.error("Failed to load potion history", error);
           status.textContent = "history unavailable_";
