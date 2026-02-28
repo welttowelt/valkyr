@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Valkyr</title>
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
     <style>
       @font-face {
         font-family: "terminal-display";
@@ -184,6 +185,35 @@
         box-shadow: inset 0 0 0 1px rgba(114, 254, 125, 0.15);
       }
 
+      .history {
+        border: 2px solid var(--terminal);
+        background: #010201;
+        margin: 0.45rem 0 0.95rem;
+        padding: 0.55rem;
+        box-shadow: inset 0 0 0 1px rgba(114, 254, 125, 0.15);
+      }
+
+      .history-grid {
+        display: grid;
+        gap: 0.75rem;
+      }
+
+      .history-panel {
+        border: 2px solid var(--terminal-dim);
+        background: #010201;
+      }
+
+      .history-chart {
+        width: 100%;
+        height: 320px;
+      }
+
+      .history-note {
+        margin: 0 0 0.5rem;
+        font-size: 0.72rem;
+        color: var(--terminal-soft);
+      }
+
       .spotlight-head {
         display: flex;
         flex-wrap: wrap;
@@ -345,6 +375,10 @@
         .chart-grid {
           grid-template-columns: repeat(2, minmax(0, 1fr));
         }
+
+        .history-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
       }
 
       @media (max-width: 640px) {
@@ -388,8 +422,31 @@
       <div class="meta">
         <span class="chip">Chain: starknet</span>
         <span class="chip">Source: Dexscreener</span>
+        <span class="chip">History source: Summit logs</span>
         <span class="chip">Auto refresh metadata: 60s</span>
       </div>
+      <section class="history">
+        <header class="spotlight-head">
+          <div>
+            <h2 class="spotlight-title">Potion history</h2>
+            <p class="spotlight-sub">From launch: Feb 19, 2026 (hourly buckets)</p>
+          </div>
+          <a class="spotlight-link" href="./assets/data/global-stats-backfill.jsonl" target="_blank" rel="noreferrer"
+            >open raw jsonl</a
+          >
+        </header>
+        <p id="history-status" class="history-note">loading potion history_</p>
+        <div class="history-grid">
+          <section class="history-panel">
+            <p class="chart-label">Attack / Revive / Poison</p>
+            <div id="history-main" class="history-chart"></div>
+          </section>
+          <section class="history-panel">
+            <p class="chart-label">Extra Life</p>
+            <div id="history-xlife" class="history-chart"></div>
+          </section>
+        </div>
+      </section>
       <section class="spotlight">
         <header class="spotlight-head">
           <div>
@@ -420,6 +477,7 @@
     <script>
       const SURVIVOR_SPOTLIGHT_URL =
         "https://dexscreener.com/starknet/0x042dd777885ad2c116be96d4d634abc90a26a790ffb5871e037dd5ae7d2ec86b-0x053c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8-3402823669209384634633746074317682114-354892-0x043e4f09c32d13d43a880e85f69f7de93ceda62d6cf2581a582c6db635548fdc";
+      const POTION_HISTORY_URL = "./assets/data/global-stats-backfill.jsonl";
       const PAIR_URLS = [
         "https://dexscreener.com/starknet/0x029023e0a455d19d6887bc13727356070089527b79e6feb562ffe1afd6711dbe-0x042dd777885ad2c116be96d4d634abc90a26a790ffb5871e037dd5ae7d2ec86b-17014118346046924117642026945517453312-354892-0x043e4f09c32d13d43a880e85f69f7de93ceda62d6cf2581a582c6db635548fdc",
         "https://dexscreener.com/starknet/0x042dd777885ad2c116be96d4d634abc90a26a790ffb5871e037dd5ae7d2ec86b-0x049eaed2a1ba2f2eb6ac2661ffd2d79231cdd7d5293d9448df49c5986c9897ae-17014118346046924117642026945517453312-354892-0x043e4f09c32d13d43a880e85f69f7de93ceda62d6cf2581a582c6db635548fdc",
@@ -479,6 +537,113 @@
         // Best-effort hint: October last year in UTC seconds (2025-10-01).
         url.searchParams.set("from", "1759276800");
         return url.toString();
+      }
+
+      function parseHistoryRows(raw) {
+        const rows = [];
+        for (const line of raw.split("\n")) {
+          const trimmed = line.trim();
+          if (!trimmed) continue;
+          try {
+            const parsed = JSON.parse(trimmed);
+            if (!parsed.timestamp || !parsed.consumables) continue;
+            rows.push(parsed);
+          } catch {
+            continue;
+          }
+        }
+        rows.sort((a, b) => Date.parse(a.timestamp) - Date.parse(b.timestamp));
+        return rows;
+      }
+
+      async function loadPotionHistory() {
+        const status = document.getElementById("history-status");
+        try {
+          const response = await fetch(POTION_HISTORY_URL, { cache: "no-store" });
+          if (!response.ok) {
+            throw new Error(`History request failed (${response.status})`);
+          }
+
+          const raw = await response.text();
+          const rows = parseHistoryRows(raw);
+          if (!rows.length) {
+            throw new Error("No valid history rows");
+          }
+          if (!window.Plotly) {
+            throw new Error("Plotly failed to load");
+          }
+
+          const times = rows.map((row) => row.timestamp);
+          const layoutBase = {
+            paper_bgcolor: "rgba(0,0,0,0)",
+            plot_bgcolor: "rgba(0,0,0,0)",
+            font: { color: "#72fe7d", family: '"terminal-display", monospace', size: 11 },
+            margin: { l: 44, r: 10, t: 18, b: 36 },
+            xaxis: {
+              gridcolor: "rgba(114,254,125,0.14)",
+              tickfont: { color: "#4fd658", size: 10 }
+            },
+            yaxis: {
+              gridcolor: "rgba(114,254,125,0.14)",
+              tickfont: { color: "#4fd658", size: 10 }
+            },
+            legend: { orientation: "h", y: 1.08, x: 0, font: { size: 10 } }
+          };
+          const config = { responsive: true, displaylogo: false, displayModeBar: false };
+
+          await Plotly.newPlot(
+            "history-main",
+            [
+              {
+                x: times,
+                y: rows.map((row) => Number(row.consumables.attack || 0)),
+                type: "scatter",
+                mode: "lines",
+                name: "Attack",
+                line: { color: "#50f0ff", width: 2 }
+              },
+              {
+                x: times,
+                y: rows.map((row) => Number(row.consumables.revive || 0)),
+                type: "scatter",
+                mode: "lines",
+                name: "Revive",
+                line: { color: "#ff5b5b", width: 2 }
+              },
+              {
+                x: times,
+                y: rows.map((row) => Number(row.consumables.poison || 0)),
+                type: "scatter",
+                mode: "lines",
+                name: "Poison",
+                line: { color: "#8fff4b", width: 2 }
+              }
+            ],
+            layoutBase,
+            config
+          );
+
+          await Plotly.newPlot(
+            "history-xlife",
+            [
+              {
+                x: times,
+                y: rows.map((row) => Number(row.consumables.xlife || 0)),
+                type: "scatter",
+                mode: "lines",
+                name: "Extra Life",
+                line: { color: "#ff7ff8", width: 2 }
+              }
+            ],
+            layoutBase,
+            config
+          );
+
+          status.textContent = `history ready: ${rows.length} points (${rows[0].timestamp} -> ${rows[rows.length - 1].timestamp})_`;
+        } catch (error) {
+          console.error("Failed to load potion history", error);
+          status.textContent = "history unavailable_";
+        }
       }
 
       function renderCards(pairs) {
@@ -566,6 +731,8 @@
       }
 
       async function init() {
+        await loadPotionHistory();
+
         const spotlightChart = document.getElementById("survivor-spotlight-chart");
         if (spotlightChart) {
           spotlightChart.src = buildSpotlightUrl(SURVIVOR_SPOTLIGHT_URL);
