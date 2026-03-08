@@ -526,6 +526,7 @@
       const CHAIN_ID = "starknet";
       const META_REFRESH_MS = 60_000;
       const HISTORY_REFRESH_MS = 4 * 60 * 60 * 1000;
+      const MAX_LIVE_OVERLAY_GAP_MS = 6 * 60 * 60 * 1000;
       let cachedHistoryRows = null;
       let cachedHistorySource = "embedded";
       let historyRefreshInFlight = false;
@@ -659,8 +660,14 @@
         const lastMs = Date.parse(last.timestamp);
         const liveMs = Date.parse(livePoint.timestamp);
 
-        if (!Number.isFinite(lastMs) || !Number.isFinite(liveMs) || liveMs <= lastMs) {
+        if (!Number.isFinite(lastMs) || !Number.isFinite(liveMs)) {
+          return out;
+        }
+        if (liveMs <= lastMs) {
           out[out.length - 1] = livePoint;
+          return out;
+        }
+        if (liveMs - lastMs > MAX_LIVE_OVERLAY_GAP_MS) {
           return out;
         }
 
