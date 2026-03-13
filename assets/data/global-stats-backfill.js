@@ -2,3862 +2,4888 @@ window.VALKYR_POTION_HISTORY = [
   {
     "timestamp": "2026-02-19T00:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T01:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T02:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T03:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T04:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T05:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T06:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T07:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T08:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T09:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T10:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T11:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T12:00:00.000Z",
     "consumables": {
-      "attack": 81362,
-      "revive": 81247,
-      "xlife": 14822,
-      "poison": 223404
+      "attack": 148987,
+      "revive": 60487,
+      "xlife": 9926,
+      "poison": 370781
     }
   },
   {
     "timestamp": "2026-02-19T13:00:00.000Z",
     "consumables": {
-      "attack": 81465,
-      "revive": 81348,
-      "xlife": 14832,
-      "poison": 223505
+      "attack": 149090,
+      "revive": 60588,
+      "xlife": 9936,
+      "poison": 370882
     }
   },
   {
     "timestamp": "2026-02-19T14:00:00.000Z",
     "consumables": {
-      "attack": 81466,
-      "revive": 81348,
-      "xlife": 14832,
-      "poison": 223506
+      "attack": 149091,
+      "revive": 60588,
+      "xlife": 9936,
+      "poison": 370883
     }
   },
   {
     "timestamp": "2026-02-19T15:00:00.000Z",
     "consumables": {
-      "attack": 89966,
-      "revive": 88348,
-      "xlife": 15679,
-      "poison": 234006
+      "attack": 157591,
+      "revive": 67588,
+      "xlife": 10783,
+      "poison": 381383
     }
   },
   {
     "timestamp": "2026-02-19T16:00:00.000Z",
     "consumables": {
-      "attack": 89966,
-      "revive": 88348,
-      "xlife": 15679,
-      "poison": 234006
+      "attack": 157591,
+      "revive": 67588,
+      "xlife": 10783,
+      "poison": 381383
     }
   },
   {
     "timestamp": "2026-02-19T17:00:00.000Z",
     "consumables": {
-      "attack": 92361,
-      "revive": 90910,
-      "xlife": 16161,
-      "poison": 237095
+      "attack": 159986,
+      "revive": 70155,
+      "xlife": 11265,
+      "poison": 384572
     }
   },
   {
     "timestamp": "2026-02-19T18:00:00.000Z",
     "consumables": {
-      "attack": 91782,
-      "revive": 80566,
-      "xlife": 15755,
-      "poison": 236324
+      "attack": 161037,
+      "revive": 61707,
+      "xlife": 10776,
+      "poison": 383955
     }
   },
   {
     "timestamp": "2026-02-19T19:00:00.000Z",
     "consumables": {
-      "attack": 94223,
-      "revive": 78469,
-      "xlife": 15727,
-      "poison": 238281
+      "attack": 162663,
+      "revive": 59608,
+      "xlife": 10754,
+      "poison": 386052
     }
   },
   {
     "timestamp": "2026-02-19T20:00:00.000Z",
     "consumables": {
-      "attack": 93819,
-      "revive": 76436,
-      "xlife": 15657,
-      "poison": 238114
+      "attack": 162993,
+      "revive": 72739,
+      "xlife": 10686,
+      "poison": 386281
     }
   },
   {
     "timestamp": "2026-02-19T21:00:00.000Z",
     "consumables": {
-      "attack": 93428,
-      "revive": 64297,
-      "xlife": 15545,
-      "poison": 237860
+      "attack": 162582,
+      "revive": 62802,
+      "xlife": 10573,
+      "poison": 385947
     }
   },
   {
     "timestamp": "2026-02-19T22:00:00.000Z",
     "consumables": {
-      "attack": 93419,
-      "revive": 63318,
-      "xlife": 15550,
-      "poison": 236679
+      "attack": 162522,
+      "revive": 61184,
+      "xlife": 10337,
+      "poison": 384766
     }
   },
   {
     "timestamp": "2026-02-19T23:00:00.000Z",
     "consumables": {
-      "attack": 94353,
-      "revive": 78611,
-      "xlife": 15596,
-      "poison": 236761
+      "attack": 162606,
+      "revive": 75156,
+      "xlife": 10322,
+      "poison": 384611
     }
   },
   {
     "timestamp": "2026-02-20T00:00:00.000Z",
     "consumables": {
-      "attack": 95299,
-      "revive": 78740,
-      "xlife": 15583,
-      "poison": 236771
+      "attack": 163544,
+      "revive": 75269,
+      "xlife": 10309,
+      "poison": 384621
     }
   },
   {
     "timestamp": "2026-02-20T01:00:00.000Z",
     "consumables": {
-      "attack": 95644,
-      "revive": 78769,
-      "xlife": 15601,
-      "poison": 237275
+      "attack": 163882,
+      "revive": 75297,
+      "xlife": 10327,
+      "poison": 385125
     }
   },
   {
     "timestamp": "2026-02-20T02:00:00.000Z",
     "consumables": {
-      "attack": 95678,
-      "revive": 78648,
-      "xlife": 15599,
-      "poison": 237330
+      "attack": 163916,
+      "revive": 75213,
+      "xlife": 10331,
+      "poison": 385180
     }
   },
   {
     "timestamp": "2026-02-20T03:00:00.000Z",
     "consumables": {
-      "attack": 95589,
-      "revive": 78405,
-      "xlife": 15589,
-      "poison": 237190
+      "attack": 164047,
+      "revive": 75970,
+      "xlife": 10382,
+      "poison": 385190
     }
   },
   {
     "timestamp": "2026-02-20T04:00:00.000Z",
     "consumables": {
-      "attack": 95350,
-      "revive": 77565,
-      "xlife": 15565,
-      "poison": 237065
+      "attack": 163819,
+      "revive": 75375,
+      "xlife": 10377,
+      "poison": 385265
     }
   },
   {
     "timestamp": "2026-02-20T05:00:00.000Z",
     "consumables": {
-      "attack": 94827,
-      "revive": 75636,
-      "xlife": 15524,
-      "poison": 236943
+      "attack": 163283,
+      "revive": 73502,
+      "xlife": 10337,
+      "poison": 385143
     }
   },
   {
     "timestamp": "2026-02-20T06:00:00.000Z",
     "consumables": {
-      "attack": 94758,
-      "revive": 75148,
-      "xlife": 15511,
-      "poison": 236798
+      "attack": 163233,
+      "revive": 73004,
+      "xlife": 10324,
+      "poison": 384988
     }
   },
   {
     "timestamp": "2026-02-20T07:00:00.000Z",
     "consumables": {
-      "attack": 95198,
-      "revive": 75123,
-      "xlife": 15449,
-      "poison": 236778
+      "attack": 163143,
+      "revive": 71931,
+      "xlife": 10272,
+      "poison": 384968
     }
   },
   {
     "timestamp": "2026-02-20T08:00:00.000Z",
     "consumables": {
-      "attack": 95187,
-      "revive": 75113,
-      "xlife": 15650,
-      "poison": 237048
+      "attack": 163132,
+      "revive": 71455,
+      "xlife": 10267,
+      "poison": 384938
     }
   },
   {
     "timestamp": "2026-02-20T09:00:00.000Z",
     "consumables": {
-      "attack": 96885,
-      "revive": 76276,
-      "xlife": 15751,
-      "poison": 238128
+      "attack": 162793,
+      "revive": 71094,
+      "xlife": 10252,
+      "poison": 385013
     }
   },
   {
     "timestamp": "2026-02-20T10:00:00.000Z",
     "consumables": {
-      "attack": 97034,
-      "revive": 76148,
-      "xlife": 15676,
-      "poison": 239113
+      "attack": 162942,
+      "revive": 71005,
+      "xlife": 10317,
+      "poison": 386008
     }
   },
   {
     "timestamp": "2026-02-20T11:00:00.000Z",
     "consumables": {
-      "attack": 98034,
-      "revive": 78587,
-      "xlife": 15896,
-      "poison": 239293
+      "attack": 163942,
+      "revive": 73359,
+      "xlife": 10527,
+      "poison": 386088
     }
   },
   {
     "timestamp": "2026-02-20T12:00:00.000Z",
     "consumables": {
-      "attack": 98699,
-      "revive": 79826,
-      "xlife": 15973,
-      "poison": 239863
+      "attack": 167952,
+      "revive": 76518,
+      "xlife": 10629,
+      "poison": 387656
     }
   },
   {
     "timestamp": "2026-02-20T13:00:00.000Z",
     "consumables": {
-      "attack": 98381,
-      "revive": 78253,
-      "xlife": 15953,
-      "poison": 239835
+      "attack": 172556,
+      "revive": 76566,
+      "xlife": 10654,
+      "poison": 387628
     }
   },
   {
     "timestamp": "2026-02-20T14:00:00.000Z",
     "consumables": {
-      "attack": 98246,
-      "revive": 76697,
-      "xlife": 15803,
-      "poison": 239090
+      "attack": 172421,
+      "revive": 74955,
+      "xlife": 10504,
+      "poison": 386863
     }
   },
   {
     "timestamp": "2026-02-20T15:00:00.000Z",
     "consumables": {
-      "attack": 99975,
-      "revive": 76301,
-      "xlife": 15843,
-      "poison": 239084
+      "attack": 172346,
+      "revive": 73461,
+      "xlife": 10423,
+      "poison": 386847
     }
   },
   {
     "timestamp": "2026-02-20T16:00:00.000Z",
     "consumables": {
-      "attack": 100892,
-      "revive": 86632,
-      "xlife": 16222,
-      "poison": 238554
+      "attack": 171896,
+      "revive": 71808,
+      "xlife": 10307,
+      "poison": 386317
     }
   },
   {
     "timestamp": "2026-02-20T17:00:00.000Z",
     "consumables": {
-      "attack": 100986,
-      "revive": 85391,
-      "xlife": 16213,
-      "poison": 239002
+      "attack": 171986,
+      "revive": 70574,
+      "xlife": 10298,
+      "poison": 386765
     }
   },
   {
     "timestamp": "2026-02-20T18:00:00.000Z",
     "consumables": {
-      "attack": 100698,
-      "revive": 83607,
-      "xlife": 16202,
-      "poison": 238982
+      "attack": 171767,
+      "revive": 69074,
+      "xlife": 10290,
+      "poison": 386755
     }
   },
   {
     "timestamp": "2026-02-20T19:00:00.000Z",
     "consumables": {
-      "attack": 100103,
-      "revive": 81305,
-      "xlife": 16128,
-      "poison": 238967
+      "attack": 172972,
+      "revive": 68463,
+      "xlife": 10459,
+      "poison": 388240
     }
   },
   {
     "timestamp": "2026-02-20T20:00:00.000Z",
     "consumables": {
-      "attack": 99963,
-      "revive": 79648,
-      "xlife": 15953,
-      "poison": 238668
+      "attack": 172815,
+      "revive": 66826,
+      "xlife": 10294,
+      "poison": 387941
     }
   },
   {
     "timestamp": "2026-02-20T21:00:00.000Z",
     "consumables": {
-      "attack": 99237,
-      "revive": 75888,
-      "xlife": 15912,
-      "poison": 238210
+      "attack": 172091,
+      "revive": 63019,
+      "xlife": 10255,
+      "poison": 387483
     }
   },
   {
     "timestamp": "2026-02-20T22:00:00.000Z",
     "consumables": {
-      "attack": 96679,
-      "revive": 71157,
-      "xlife": 15888,
-      "poison": 237945
+      "attack": 169393,
+      "revive": 58464,
+      "xlife": 10233,
+      "poison": 387212
     }
   },
   {
     "timestamp": "2026-02-20T23:00:00.000Z",
     "consumables": {
-      "attack": 95424,
-      "revive": 68837,
-      "xlife": 15848,
-      "poison": 236605
+      "attack": 168032,
+      "revive": 56290,
+      "xlife": 10193,
+      "poison": 385872
     }
   },
   {
     "timestamp": "2026-02-21T00:00:00.000Z",
     "consumables": {
-      "attack": 94778,
-      "revive": 69094,
-      "xlife": 15848,
-      "poison": 236171
+      "attack": 166939,
+      "revive": 55869,
+      "xlife": 10172,
+      "poison": 385547
     }
   },
   {
     "timestamp": "2026-02-21T01:00:00.000Z",
     "consumables": {
-      "attack": 94255,
-      "revive": 69203,
-      "xlife": 15846,
-      "poison": 236382
+      "attack": 165792,
+      "revive": 55553,
+      "xlife": 10125,
+      "poison": 385131
     }
   },
   {
     "timestamp": "2026-02-21T02:00:00.000Z",
     "consumables": {
-      "attack": 92583,
-      "revive": 69172,
-      "xlife": 15874,
-      "poison": 236131
+      "attack": 164066,
+      "revive": 55380,
+      "xlife": 10131,
+      "poison": 384868
     }
   },
   {
     "timestamp": "2026-02-21T03:00:00.000Z",
     "consumables": {
-      "attack": 91606,
-      "revive": 69062,
-      "xlife": 15847,
-      "poison": 235355
+      "attack": 163102,
+      "revive": 55271,
+      "xlife": 10104,
+      "poison": 384242
     }
   },
   {
     "timestamp": "2026-02-21T04:00:00.000Z",
     "consumables": {
-      "attack": 90391,
-      "revive": 74660,
-      "xlife": 15877,
-      "poison": 235125
+      "attack": 161906,
+      "revive": 60902,
+      "xlife": 10134,
+      "poison": 384006
     }
   },
   {
     "timestamp": "2026-02-21T05:00:00.000Z",
     "consumables": {
-      "attack": 89617,
-      "revive": 74557,
-      "xlife": 15878,
-      "poison": 234874
+      "attack": 161165,
+      "revive": 60735,
+      "xlife": 10134,
+      "poison": 383803
     }
   },
   {
     "timestamp": "2026-02-21T06:00:00.000Z",
     "consumables": {
-      "attack": 89160,
-      "revive": 75614,
-      "xlife": 16116,
-      "poison": 236696
+      "attack": 160684,
+      "revive": 61498,
+      "xlife": 10372,
+      "poison": 385717
     }
   },
   {
     "timestamp": "2026-02-21T07:00:00.000Z",
     "consumables": {
-      "attack": 88631,
-      "revive": 79019,
-      "xlife": 16083,
-      "poison": 236552
+      "attack": 160282,
+      "revive": 65592,
+      "xlife": 10395,
+      "poison": 386099
     }
   },
   {
     "timestamp": "2026-02-21T08:00:00.000Z",
     "consumables": {
-      "attack": 88211,
-      "revive": 78607,
-      "xlife": 16079,
-      "poison": 236490
+      "attack": 159914,
+      "revive": 67790,
+      "xlife": 10709,
+      "poison": 386037
     }
   },
   {
     "timestamp": "2026-02-21T09:00:00.000Z",
     "consumables": {
-      "attack": 84034,
-      "revive": 77500,
-      "xlife": 16057,
-      "poison": 236058
+      "attack": 155628,
+      "revive": 66850,
+      "xlife": 10695,
+      "poison": 385877
     }
   },
   {
     "timestamp": "2026-02-21T10:00:00.000Z",
     "consumables": {
-      "attack": 81906,
-      "revive": 76646,
-      "xlife": 16024,
-      "poison": 235870
+      "attack": 153405,
+      "revive": 66032,
+      "xlife": 10664,
+      "poison": 385656
     }
   },
   {
     "timestamp": "2026-02-21T11:00:00.000Z",
     "consumables": {
-      "attack": 79902,
-      "revive": 75134,
-      "xlife": 15925,
-      "poison": 235143
+      "attack": 151379,
+      "revive": 64507,
+      "xlife": 10570,
+      "poison": 385002
     }
   },
   {
     "timestamp": "2026-02-21T12:00:00.000Z",
     "consumables": {
-      "attack": 76655,
-      "revive": 73800,
-      "xlife": 15903,
-      "poison": 234629
+      "attack": 148129,
+      "revive": 63165,
+      "xlife": 10548,
+      "poison": 384470
     }
   },
   {
     "timestamp": "2026-02-21T13:00:00.000Z",
     "consumables": {
-      "attack": 73346,
-      "revive": 71771,
-      "xlife": 15852,
-      "poison": 233685
+      "attack": 145106,
+      "revive": 61319,
+      "xlife": 10497,
+      "poison": 383528
     }
   },
   {
     "timestamp": "2026-02-21T14:00:00.000Z",
     "consumables": {
-      "attack": 73554,
-      "revive": 71670,
-      "xlife": 15869,
-      "poison": 233986
+      "attack": 144955,
+      "revive": 60547,
+      "xlife": 10154,
+      "poison": 380826
     }
   },
   {
     "timestamp": "2026-02-21T15:00:00.000Z",
     "consumables": {
-      "attack": 74749,
-      "revive": 72334,
-      "xlife": 15869,
-      "poison": 234905
+      "attack": 140300,
+      "revive": 55073,
+      "xlife": 10150,
+      "poison": 380727
     }
   },
   {
     "timestamp": "2026-02-21T16:00:00.000Z",
     "consumables": {
-      "attack": 78579,
-      "revive": 68888,
-      "xlife": 15856,
-      "poison": 234960
+      "attack": 144128,
+      "revive": 51594,
+      "xlife": 10145,
+      "poison": 380782
     }
   },
   {
     "timestamp": "2026-02-21T17:00:00.000Z",
     "consumables": {
-      "attack": 78986,
-      "revive": 76086,
-      "xlife": 15790,
-      "poison": 242448
+      "attack": 144029,
+      "revive": 58233,
+      "xlife": 10079,
+      "poison": 388175
     }
   },
   {
     "timestamp": "2026-02-21T18:00:00.000Z",
     "consumables": {
-      "attack": 78876,
-      "revive": 76001,
-      "xlife": 15770,
-      "poison": 241593
+      "attack": 143890,
+      "revive": 58146,
+      "xlife": 10059,
+      "poison": 387367
     }
   },
   {
     "timestamp": "2026-02-21T19:00:00.000Z",
     "consumables": {
-      "attack": 81885,
-      "revive": 78428,
-      "xlife": 15784,
-      "poison": 241249
+      "attack": 146878,
+      "revive": 60570,
+      "xlife": 10073,
+      "poison": 387023
     }
   },
   {
     "timestamp": "2026-02-21T20:00:00.000Z",
     "consumables": {
-      "attack": 82076,
-      "revive": 78900,
-      "xlife": 15810,
-      "poison": 241161
+      "attack": 147069,
+      "revive": 61039,
+      "xlife": 10158,
+      "poison": 386932
     }
   },
   {
     "timestamp": "2026-02-21T21:00:00.000Z",
     "consumables": {
-      "attack": 79349,
-      "revive": 77278,
-      "xlife": 15731,
-      "poison": 240835
+      "attack": 144537,
+      "revive": 62812,
+      "xlife": 10581,
+      "poison": 386846
     }
   },
   {
     "timestamp": "2026-02-21T22:00:00.000Z",
     "consumables": {
-      "attack": 71948,
-      "revive": 76594,
-      "xlife": 15190,
-      "poison": 235144
+      "attack": 146936,
+      "revive": 62802,
+      "xlife": 10067,
+      "poison": 381140
     }
   },
   {
     "timestamp": "2026-02-21T23:00:00.000Z",
     "consumables": {
-      "attack": 63101,
-      "revive": 75786,
-      "xlife": 15092,
-      "poison": 235144
+      "attack": 137489,
+      "revive": 61973,
+      "xlife": 9973,
+      "poison": 381136
     }
   },
   {
     "timestamp": "2026-02-22T00:00:00.000Z",
     "consumables": {
-      "attack": 52685,
-      "revive": 68743,
-      "xlife": 14935,
-      "poison": 234775
+      "attack": 126873,
+      "revive": 55132,
+      "xlife": 9816,
+      "poison": 380752
     }
   },
   {
     "timestamp": "2026-02-22T01:00:00.000Z",
     "consumables": {
-      "attack": 52462,
-      "revive": 68462,
-      "xlife": 14910,
-      "poison": 234025
+      "attack": 126650,
+      "revive": 54851,
+      "xlife": 9761,
+      "poison": 379935
     }
   },
   {
     "timestamp": "2026-02-22T02:00:00.000Z",
     "consumables": {
-      "attack": 52613,
-      "revive": 68584,
-      "xlife": 14916,
-      "poison": 233409
+      "attack": 126501,
+      "revive": 54773,
+      "xlife": 9736,
+      "poison": 379308
     }
   },
   {
     "timestamp": "2026-02-22T03:00:00.000Z",
     "consumables": {
-      "attack": 52378,
-      "revive": 69007,
-      "xlife": 14977,
-      "poison": 232894
+      "attack": 126404,
+      "revive": 54593,
+      "xlife": 9694,
+      "poison": 377797
     }
   },
   {
     "timestamp": "2026-02-22T04:00:00.000Z",
     "consumables": {
-      "attack": 62115,
-      "revive": 73861,
-      "xlife": 14977,
-      "poison": 230707
+      "attack": 126144,
+      "revive": 54490,
+      "xlife": 9589,
+      "poison": 375601
     }
   },
   {
     "timestamp": "2026-02-22T05:00:00.000Z",
     "consumables": {
-      "attack": 62136,
-      "revive": 73721,
-      "xlife": 14963,
-      "poison": 230373
+      "attack": 126065,
+      "revive": 54250,
+      "xlife": 9565,
+      "poison": 375068
     }
   },
   {
     "timestamp": "2026-02-22T06:00:00.000Z",
     "consumables": {
-      "attack": 61975,
-      "revive": 72603,
-      "xlife": 14954,
-      "poison": 230176
+      "attack": 125894,
+      "revive": 53122,
+      "xlife": 9554,
+      "poison": 374873
     }
   },
   {
     "timestamp": "2026-02-22T07:00:00.000Z",
     "consumables": {
-      "attack": 62966,
-      "revive": 73805,
-      "xlife": 14963,
-      "poison": 231024
+      "attack": 125839,
+      "revive": 53025,
+      "xlife": 9552,
+      "poison": 374723
     }
   },
   {
     "timestamp": "2026-02-22T08:00:00.000Z",
     "consumables": {
-      "attack": 62933,
-      "revive": 74023,
-      "xlife": 14958,
-      "poison": 230905
+      "attack": 125796,
+      "revive": 53156,
+      "xlife": 9548,
+      "poison": 374613
     }
   },
   {
     "timestamp": "2026-02-22T09:00:00.000Z",
     "consumables": {
-      "attack": 62856,
-      "revive": 76113,
-      "xlife": 14980,
-      "poison": 232158
+      "attack": 125719,
+      "revive": 55207,
+      "xlife": 9571,
+      "poison": 375873
     }
   },
   {
     "timestamp": "2026-02-22T10:00:00.000Z",
     "consumables": {
-      "attack": 62828,
-      "revive": 76824,
-      "xlife": 15054,
-      "poison": 233036
+      "attack": 125691,
+      "revive": 55982,
+      "xlife": 9645,
+      "poison": 376622
     }
   },
   {
     "timestamp": "2026-02-22T11:00:00.000Z",
     "consumables": {
-      "attack": 99626,
-      "revive": 79734,
-      "xlife": 15524,
-      "poison": 241443
+      "attack": 162489,
+      "revive": 58890,
+      "xlife": 10115,
+      "poison": 385029
     }
   },
   {
     "timestamp": "2026-02-22T12:00:00.000Z",
     "consumables": {
-      "attack": 99023,
-      "revive": 79696,
-      "xlife": 15517,
-      "poison": 241918
+      "attack": 161887,
+      "revive": 58852,
+      "xlife": 10107,
+      "poison": 385487
     }
   },
   {
     "timestamp": "2026-02-22T13:00:00.000Z",
     "consumables": {
-      "attack": 116104,
-      "revive": 88016,
-      "xlife": 15448,
-      "poison": 241436
+      "attack": 178868,
+      "revive": 67279,
+      "xlife": 10095,
+      "poison": 386287
     }
   },
   {
     "timestamp": "2026-02-22T14:00:00.000Z",
     "consumables": {
-      "attack": 115895,
-      "revive": 86811,
-      "xlife": 15412,
-      "poison": 240713
+      "attack": 179269,
+      "revive": 69053,
+      "xlife": 10094,
+      "poison": 387264
     }
   },
   {
     "timestamp": "2026-02-22T15:00:00.000Z",
     "consumables": {
-      "attack": 112075,
-      "revive": 86455,
-      "xlife": 15358,
-      "poison": 240344
+      "attack": 176853,
+      "revive": 70608,
+      "xlife": 10040,
+      "poison": 387800
     }
   },
   {
     "timestamp": "2026-02-22T16:00:00.000Z",
     "consumables": {
-      "attack": 106021,
-      "revive": 85829,
-      "xlife": 15309,
-      "poison": 240143
+      "attack": 170802,
+      "revive": 72266,
+      "xlife": 9999,
+      "poison": 387604
     }
   },
   {
     "timestamp": "2026-02-22T17:00:00.000Z",
     "consumables": {
-      "attack": 94174,
-      "revive": 81363,
-      "xlife": 15163,
-      "poison": 239805
+      "attack": 159155,
+      "revive": 67815,
+      "xlife": 9851,
+      "poison": 387266
     }
   },
   {
     "timestamp": "2026-02-22T18:00:00.000Z",
     "consumables": {
-      "attack": 91141,
-      "revive": 80910,
-      "xlife": 15145,
-      "poison": 239710
+      "attack": 156122,
+      "revive": 67370,
+      "xlife": 9833,
+      "poison": 387171
     }
   },
   {
     "timestamp": "2026-02-22T19:00:00.000Z",
     "consumables": {
-      "attack": 91115,
-      "revive": 80719,
-      "xlife": 15143,
-      "poison": 239298
+      "attack": 156096,
+      "revive": 67179,
+      "xlife": 9831,
+      "poison": 386762
     }
   },
   {
     "timestamp": "2026-02-22T20:00:00.000Z",
     "consumables": {
-      "attack": 90614,
-      "revive": 80144,
-      "xlife": 15137,
-      "poison": 238902
+      "attack": 155595,
+      "revive": 66636,
+      "xlife": 9825,
+      "poison": 386360
     }
   },
   {
     "timestamp": "2026-02-22T21:00:00.000Z",
     "consumables": {
-      "attack": 84982,
-      "revive": 79856,
-      "xlife": 15061,
-      "poison": 238778
+      "attack": 150190,
+      "revive": 66351,
+      "xlife": 9749,
+      "poison": 386229
     }
   },
   {
     "timestamp": "2026-02-22T22:00:00.000Z",
     "consumables": {
-      "attack": 84870,
-      "revive": 79613,
-      "xlife": 14941,
-      "poison": 238627
+      "attack": 150078,
+      "revive": 66169,
+      "xlife": 9629,
+      "poison": 386081
     }
   },
   {
     "timestamp": "2026-02-22T23:00:00.000Z",
     "consumables": {
-      "attack": 84552,
-      "revive": 79472,
-      "xlife": 14930,
-      "poison": 238197
+      "attack": 149760,
+      "revive": 66028,
+      "xlife": 9618,
+      "poison": 385663
     }
   },
   {
     "timestamp": "2026-02-23T00:00:00.000Z",
     "consumables": {
-      "attack": 84569,
-      "revive": 79512,
-      "xlife": 14926,
-      "poison": 237929
+      "attack": 149605,
+      "revive": 65461,
+      "xlife": 9589,
+      "poison": 384125
     }
   },
   {
     "timestamp": "2026-02-23T01:00:00.000Z",
     "consumables": {
-      "attack": 84710,
-      "revive": 81340,
-      "xlife": 15072,
-      "poison": 236885
+      "attack": 149576,
+      "revive": 65089,
+      "xlife": 9571,
+      "poison": 383093
     }
   },
   {
     "timestamp": "2026-02-23T02:00:00.000Z",
     "consumables": {
-      "attack": 84376,
-      "revive": 81104,
-      "xlife": 15044,
-      "poison": 236662
+      "attack": 149166,
+      "revive": 64764,
+      "xlife": 9542,
+      "poison": 382762
     }
   },
   {
     "timestamp": "2026-02-23T03:00:00.000Z",
     "consumables": {
-      "attack": 85606,
-      "revive": 83116,
-      "xlife": 15227,
-      "poison": 236269
+      "attack": 150482,
+      "revive": 66769,
+      "xlife": 9725,
+      "poison": 382349
     }
   },
   {
     "timestamp": "2026-02-23T04:00:00.000Z",
     "consumables": {
-      "attack": 85619,
-      "revive": 84595,
-      "xlife": 15336,
-      "poison": 235927
+      "attack": 150505,
+      "revive": 68252,
+      "xlife": 9833,
+      "poison": 382006
     }
   },
   {
     "timestamp": "2026-02-23T05:00:00.000Z",
     "consumables": {
-      "attack": 86087,
-      "revive": 85185,
-      "xlife": 15334,
-      "poison": 235370
+      "attack": 150973,
+      "revive": 68854,
+      "xlife": 9831,
+      "poison": 381444
     }
   },
   {
     "timestamp": "2026-02-23T06:00:00.000Z",
     "consumables": {
-      "attack": 86052,
-      "revive": 87069,
-      "xlife": 15528,
-      "poison": 235037
+      "attack": 150922,
+      "revive": 70764,
+      "xlife": 10023,
+      "poison": 381123
     }
   },
   {
     "timestamp": "2026-02-23T07:00:00.000Z",
     "consumables": {
-      "attack": 96757,
-      "revive": 86495,
-      "xlife": 15977,
-      "poison": 234588
+      "attack": 161824,
+      "revive": 70207,
+      "xlife": 10469,
+      "poison": 380658
     }
   },
   {
     "timestamp": "2026-02-23T08:00:00.000Z",
     "consumables": {
-      "attack": 93981,
-      "revive": 86220,
-      "xlife": 15957,
-      "poison": 234057
+      "attack": 159248,
+      "revive": 69948,
+      "xlife": 10450,
+      "poison": 380119
     }
   },
   {
     "timestamp": "2026-02-23T09:00:00.000Z",
     "consumables": {
-      "attack": 93929,
-      "revive": 86163,
-      "xlife": 15952,
-      "poison": 233698
+      "attack": 159196,
+      "revive": 69891,
+      "xlife": 10444,
+      "poison": 379776
     }
   },
   {
     "timestamp": "2026-02-23T10:00:00.000Z",
     "consumables": {
-      "attack": 93949,
-      "revive": 86082,
-      "xlife": 15948,
-      "poison": 233553
+      "attack": 159216,
+      "revive": 69810,
+      "xlife": 10440,
+      "poison": 379628
     }
   },
   {
     "timestamp": "2026-02-23T11:00:00.000Z",
     "consumables": {
-      "attack": 104948,
-      "revive": 85287,
-      "xlife": 15889,
-      "poison": 242497
+      "attack": 170394,
+      "revive": 69040,
+      "xlife": 10383,
+      "poison": 388571
     }
   },
   {
     "timestamp": "2026-02-23T12:00:00.000Z",
     "consumables": {
-      "attack": 101723,
-      "revive": 86222,
-      "xlife": 15883,
-      "poison": 242407
+      "attack": 167169,
+      "revive": 70129,
+      "xlife": 10381,
+      "poison": 388481
     }
   },
   {
     "timestamp": "2026-02-23T13:00:00.000Z",
     "consumables": {
-      "attack": 101645,
-      "revive": 85963,
-      "xlife": 15873,
-      "poison": 242263
+      "attack": 168755,
+      "revive": 71470,
+      "xlife": 10501,
+      "poison": 388537
     }
   },
   {
     "timestamp": "2026-02-23T14:00:00.000Z",
     "consumables": {
-      "attack": 100347,
-      "revive": 82631,
-      "xlife": 15810,
-      "poison": 242213
+      "attack": 167440,
+      "revive": 68587,
+      "xlife": 10439,
+      "poison": 388485
     }
   },
   {
     "timestamp": "2026-02-23T15:00:00.000Z",
     "consumables": {
-      "attack": 100282,
-      "revive": 82357,
-      "xlife": 15802,
-      "poison": 242189
+      "attack": 168479,
+      "revive": 68860,
+      "xlife": 10952,
+      "poison": 390465
     }
   },
   {
     "timestamp": "2026-02-23T16:00:00.000Z",
     "consumables": {
-      "attack": 100155,
-      "revive": 82107,
-      "xlife": 15682,
-      "poison": 240962
+      "attack": 168352,
+      "revive": 68604,
+      "xlife": 10835,
+      "poison": 389237
     }
   },
   {
     "timestamp": "2026-02-23T17:00:00.000Z",
     "consumables": {
-      "attack": 100102,
-      "revive": 81777,
-      "xlife": 15674,
-      "poison": 240906
+      "attack": 168299,
+      "revive": 68340,
+      "xlife": 10827,
+      "poison": 389181
     }
   },
   {
     "timestamp": "2026-02-23T18:00:00.000Z",
     "consumables": {
-      "attack": 100031,
-      "revive": 80749,
-      "xlife": 15659,
-      "poison": 240901
+      "attack": 168227,
+      "revive": 67314,
+      "xlife": 10814,
+      "poison": 389176
     }
   },
   {
     "timestamp": "2026-02-23T19:00:00.000Z",
     "consumables": {
-      "attack": 118608,
-      "revive": 79962,
-      "xlife": 15636,
-      "poison": 240731
+      "attack": 168128,
+      "revive": 66504,
+      "xlife": 10794,
+      "poison": 389007
     }
   },
   {
     "timestamp": "2026-02-23T20:00:00.000Z",
     "consumables": {
-      "attack": 122053,
-      "revive": 92763,
-      "xlife": 15434,
-      "poison": 240482
+      "attack": 161665,
+      "revive": 63331,
+      "xlife": 10543,
+      "poison": 388749
     }
   },
   {
     "timestamp": "2026-02-23T21:00:00.000Z",
     "consumables": {
-      "attack": 119634,
-      "revive": 91614,
-      "xlife": 15348,
-      "poison": 240425
+      "attack": 159511,
+      "revive": 62114,
+      "xlife": 10462,
+      "poison": 388693
     }
   },
   {
     "timestamp": "2026-02-23T22:00:00.000Z",
     "consumables": {
-      "attack": 115329,
-      "revive": 91226,
-      "xlife": 15115,
-      "poison": 240371
+      "attack": 154042,
+      "revive": 60103,
+      "xlife": 10210,
+      "poison": 388638
     }
   },
   {
     "timestamp": "2026-02-23T23:00:00.000Z",
     "consumables": {
-      "attack": 109050,
-      "revive": 90528,
-      "xlife": 14861,
-      "poison": 240141
+      "attack": 148123,
+      "revive": 59499,
+      "xlife": 9984,
+      "poison": 388395
     }
   },
   {
     "timestamp": "2026-02-24T00:00:00.000Z",
     "consumables": {
-      "attack": 110650,
-      "revive": 92440,
-      "xlife": 15459,
-      "poison": 240122
+      "attack": 149723,
+      "revive": 61539,
+      "xlife": 10583,
+      "poison": 388381
     }
   },
   {
     "timestamp": "2026-02-24T01:00:00.000Z",
     "consumables": {
-      "attack": 110599,
-      "revive": 92147,
-      "xlife": 15491,
-      "poison": 239909
+      "attack": 149672,
+      "revive": 61246,
+      "xlife": 10615,
+      "poison": 388148
     }
   },
   {
     "timestamp": "2026-02-24T02:00:00.000Z",
     "consumables": {
-      "attack": 110529,
-      "revive": 94379,
-      "xlife": 15605,
-      "poison": 241577
+      "attack": 149595,
+      "revive": 63507,
+      "xlife": 10728,
+      "poison": 389825
     }
   },
   {
     "timestamp": "2026-02-24T03:00:00.000Z",
     "consumables": {
-      "attack": 110489,
-      "revive": 94143,
-      "xlife": 15596,
-      "poison": 241544
+      "attack": 149297,
+      "revive": 63261,
+      "xlife": 10719,
+      "poison": 389786
     }
   },
   {
     "timestamp": "2026-02-24T04:00:00.000Z",
     "consumables": {
-      "attack": 110462,
-      "revive": 93743,
-      "xlife": 15588,
-      "poison": 243474
+      "attack": 149270,
+      "revive": 62875,
+      "xlife": 10712,
+      "poison": 391726
     }
   },
   {
     "timestamp": "2026-02-24T05:00:00.000Z",
     "consumables": {
-      "attack": 110428,
-      "revive": 95177,
-      "xlife": 15534,
-      "poison": 243682
+      "attack": 149236,
+      "revive": 64265,
+      "xlife": 10657,
+      "poison": 391927
     }
   },
   {
     "timestamp": "2026-02-24T06:00:00.000Z",
     "consumables": {
-      "attack": 110407,
-      "revive": 95682,
-      "xlife": 15570,
-      "poison": 248930
+      "attack": 149235,
+      "revive": 64748,
+      "xlife": 10692,
+      "poison": 397177
     }
   },
   {
     "timestamp": "2026-02-24T07:00:00.000Z",
     "consumables": {
-      "attack": 110375,
-      "revive": 157221,
-      "xlife": 15656,
-      "poison": 248841
+      "attack": 149193,
+      "revive": 126274,
+      "xlife": 10777,
+      "poison": 397058
     }
   },
   {
     "timestamp": "2026-02-24T08:00:00.000Z",
     "consumables": {
-      "attack": 115282,
-      "revive": 155716,
-      "xlife": 15361,
-      "poison": 248782
+      "attack": 154233,
+      "revive": 124812,
+      "xlife": 10494,
+      "poison": 397006
     }
   },
   {
     "timestamp": "2026-02-24T09:00:00.000Z",
     "consumables": {
-      "attack": 114888,
-      "revive": 155131,
-      "xlife": 15326,
-      "poison": 248685
+      "attack": 156349,
+      "revive": 126786,
+      "xlife": 10695,
+      "poison": 396909
     }
   },
   {
     "timestamp": "2026-02-24T10:00:00.000Z",
     "consumables": {
-      "attack": 114639,
-      "revive": 154951,
-      "xlife": 15293,
-      "poison": 248583
+      "attack": 195151,
+      "revive": 126678,
+      "xlife": 10754,
+      "poison": 397801
     }
   },
   {
     "timestamp": "2026-02-24T11:00:00.000Z",
     "consumables": {
-      "attack": 114514,
-      "revive": 152131,
-      "xlife": 15145,
-      "poison": 248297
+      "attack": 198027,
+      "revive": 124409,
+      "xlife": 10835,
+      "poison": 399524
     }
   },
   {
     "timestamp": "2026-02-24T12:00:00.000Z",
     "consumables": {
-      "attack": 114501,
-      "revive": 150580,
-      "xlife": 15032,
-      "poison": 247546
+      "attack": 198014,
+      "revive": 122786,
+      "xlife": 10732,
+      "poison": 398773
     }
   },
   {
     "timestamp": "2026-02-24T13:00:00.000Z",
     "consumables": {
-      "attack": 114487,
-      "revive": 150335,
-      "xlife": 15011,
-      "poison": 247269
+      "attack": 198000,
+      "revive": 122521,
+      "xlife": 10701,
+      "poison": 398486
     }
   },
   {
     "timestamp": "2026-02-24T14:00:00.000Z",
     "consumables": {
-      "attack": 113698,
-      "revive": 148692,
-      "xlife": 14985,
-      "poison": 246708
+      "attack": 197216,
+      "revive": 120978,
+      "xlife": 10676,
+      "poison": 398096
     }
   },
   {
     "timestamp": "2026-02-24T15:00:00.000Z",
     "consumables": {
-      "attack": 113595,
-      "revive": 147988,
-      "xlife": 14945,
-      "poison": 246209
+      "attack": 197117,
+      "revive": 120272,
+      "xlife": 10636,
+      "poison": 397479
     }
   },
   {
     "timestamp": "2026-02-24T16:00:00.000Z",
     "consumables": {
-      "attack": 113149,
-      "revive": 147886,
-      "xlife": 14722,
-      "poison": 245938
+      "attack": 196681,
+      "revive": 120185,
+      "xlife": 10417,
+      "poison": 397204
     }
   },
   {
     "timestamp": "2026-02-24T17:00:00.000Z",
     "consumables": {
-      "attack": 111619,
-      "revive": 145912,
-      "xlife": 14535,
-      "poison": 245661
+      "attack": 195078,
+      "revive": 118275,
+      "xlife": 10211,
+      "poison": 396891
     }
   },
   {
     "timestamp": "2026-02-24T18:00:00.000Z",
     "consumables": {
-      "attack": 110053,
-      "revive": 144981,
-      "xlife": 14383,
-      "poison": 244987
+      "attack": 193406,
+      "revive": 117307,
+      "xlife": 10049,
+      "poison": 396179
     }
   },
   {
     "timestamp": "2026-02-24T19:00:00.000Z",
     "consumables": {
-      "attack": 108566,
-      "revive": 144934,
-      "xlife": 14240,
-      "poison": 244349
+      "attack": 191619,
+      "revive": 116170,
+      "xlife": 9883,
+      "poison": 395536
     }
   },
   {
     "timestamp": "2026-02-24T20:00:00.000Z",
     "consumables": {
-      "attack": 105577,
-      "revive": 142889,
-      "xlife": 14002,
-      "poison": 244314
+      "attack": 187374,
+      "revive": 113093,
+      "xlife": 9637,
+      "poison": 395504
     }
   },
   {
     "timestamp": "2026-02-24T21:00:00.000Z",
     "consumables": {
-      "attack": 98999,
-      "revive": 138880,
-      "xlife": 13895,
-      "poison": 244135
+      "attack": 181191,
+      "revive": 109176,
+      "xlife": 9465,
+      "poison": 395326
     }
   },
   {
     "timestamp": "2026-02-24T22:00:00.000Z",
     "consumables": {
-      "attack": 115290,
-      "revive": 143528,
-      "xlife": 14654,
-      "poison": 243921
+      "attack": 178502,
+      "revive": 105993,
+      "xlife": 9204,
+      "poison": 394921
     }
   },
   {
     "timestamp": "2026-02-24T23:00:00.000Z",
     "consumables": {
-      "attack": 115152,
-      "revive": 143207,
-      "xlife": 14666,
-      "poison": 243801
+      "attack": 178406,
+      "revive": 105635,
+      "xlife": 9191,
+      "poison": 394776
     }
   },
   {
     "timestamp": "2026-02-25T00:00:00.000Z",
     "consumables": {
-      "attack": 115052,
-      "revive": 143207,
-      "xlife": 14670,
-      "poison": 244301
+      "attack": 178326,
+      "revive": 105635,
+      "xlife": 9195,
+      "poison": 395276
     }
   },
   {
     "timestamp": "2026-02-25T01:00:00.000Z",
     "consumables": {
-      "attack": 114872,
-      "revive": 143259,
-      "xlife": 14682,
-      "poison": 243521
+      "attack": 178146,
+      "revive": 105768,
+      "xlife": 9206,
+      "poison": 394521
     }
   },
   {
     "timestamp": "2026-02-25T02:00:00.000Z",
     "consumables": {
-      "attack": 114872,
-      "revive": 143759,
-      "xlife": 14682,
-      "poison": 243521
+      "attack": 178146,
+      "revive": 106268,
+      "xlife": 9206,
+      "poison": 394521
     }
   },
   {
     "timestamp": "2026-02-25T03:00:00.000Z",
     "consumables": {
-      "attack": 114871,
-      "revive": 143716,
-      "xlife": 14672,
-      "poison": 243292
+      "attack": 178145,
+      "revive": 106253,
+      "xlife": 9198,
+      "poison": 394317
     }
   },
   {
     "timestamp": "2026-02-25T04:00:00.000Z",
     "consumables": {
-      "attack": 114842,
-      "revive": 144023,
-      "xlife": 14671,
-      "poison": 244012
+      "attack": 178116,
+      "revive": 106557,
+      "xlife": 9193,
+      "poison": 394987
     }
   },
   {
     "timestamp": "2026-02-25T05:00:00.000Z",
     "consumables": {
-      "attack": 114693,
-      "revive": 144043,
-      "xlife": 14662,
-      "poison": 243817
+      "attack": 177997,
+      "revive": 106623,
+      "xlife": 9186,
+      "poison": 394822
     }
   },
   {
     "timestamp": "2026-02-25T06:00:00.000Z",
     "consumables": {
-      "attack": 114679,
-      "revive": 144793,
-      "xlife": 14660,
-      "poison": 243787
+      "attack": 177983,
+      "revive": 107373,
+      "xlife": 9184,
+      "poison": 394792
     }
   },
   {
     "timestamp": "2026-02-25T07:00:00.000Z",
     "consumables": {
-      "attack": 114559,
-      "revive": 145125,
-      "xlife": 14881,
-      "poison": 253662
+      "attack": 177863,
+      "revive": 107696,
+      "xlife": 9407,
+      "poison": 404667
     }
   },
   {
     "timestamp": "2026-02-25T08:00:00.000Z",
     "consumables": {
-      "attack": 114904,
-      "revive": 145833,
-      "xlife": 14958,
-      "poison": 253827
+      "attack": 178208,
+      "revive": 108411,
+      "xlife": 9484,
+      "poison": 404832
     }
   },
   {
     "timestamp": "2026-02-25T09:00:00.000Z",
     "consumables": {
-      "attack": 114814,
-      "revive": 145465,
-      "xlife": 14973,
-      "poison": 253637
+      "attack": 178118,
+      "revive": 108260,
+      "xlife": 9508,
+      "poison": 404617
     }
   },
   {
     "timestamp": "2026-02-25T10:00:00.000Z",
     "consumables": {
-      "attack": 114809,
-      "revive": 145426,
-      "xlife": 14972,
-      "poison": 253583
+      "attack": 178113,
+      "revive": 108421,
+      "xlife": 9507,
+      "poison": 404543
     }
   },
   {
     "timestamp": "2026-02-25T11:00:00.000Z",
     "consumables": {
-      "attack": 114698,
-      "revive": 145137,
-      "xlife": 14933,
-      "poison": 253283
+      "attack": 178502,
+      "revive": 109187,
+      "xlife": 9476,
+      "poison": 405218
     }
   },
   {
     "timestamp": "2026-02-25T12:00:00.000Z",
     "consumables": {
-      "attack": 114679,
-      "revive": 145078,
-      "xlife": 14933,
-      "poison": 253252
+      "attack": 178483,
+      "revive": 109274,
+      "xlife": 9480,
+      "poison": 405289
     }
   },
   {
     "timestamp": "2026-02-25T13:00:00.000Z",
     "consumables": {
-      "attack": 114587,
-      "revive": 145067,
-      "xlife": 14927,
-      "poison": 253092
+      "attack": 178421,
+      "revive": 109328,
+      "xlife": 9476,
+      "poison": 405129
     }
   },
   {
     "timestamp": "2026-02-25T14:00:00.000Z",
     "consumables": {
-      "attack": 114375,
-      "revive": 144660,
-      "xlife": 14892,
-      "poison": 252757
+      "attack": 178679,
+      "revive": 109405,
+      "xlife": 11555,
+      "poison": 405294
     }
   },
   {
     "timestamp": "2026-02-25T15:00:00.000Z",
     "consumables": {
-      "attack": 113730,
-      "revive": 144430,
-      "xlife": 14660,
-      "poison": 249184
+      "attack": 178033,
+      "revive": 109156,
+      "xlife": 11378,
+      "poison": 402989
     }
   },
   {
     "timestamp": "2026-02-25T16:00:00.000Z",
     "consumables": {
-      "attack": 113326,
-      "revive": 144112,
-      "xlife": 14495,
-      "poison": 247578
+      "attack": 177838,
+      "revive": 108913,
+      "xlife": 11212,
+      "poison": 401383
     }
   },
   {
     "timestamp": "2026-02-25T17:00:00.000Z",
     "consumables": {
-      "attack": 112038,
-      "revive": 143758,
-      "xlife": 14476,
-      "poison": 247419
+      "attack": 176555,
+      "revive": 108526,
+      "xlife": 11194,
+      "poison": 401219
     }
   },
   {
     "timestamp": "2026-02-25T18:00:00.000Z",
     "consumables": {
-      "attack": 111818,
-      "revive": 143222,
-      "xlife": 14393,
-      "poison": 246999
+      "attack": 176353,
+      "revive": 107919,
+      "xlife": 11111,
+      "poison": 400799
     }
   },
   {
     "timestamp": "2026-02-25T19:00:00.000Z",
     "consumables": {
-      "attack": 111695,
-      "revive": 142328,
-      "xlife": 14385,
-      "poison": 246859
+      "attack": 176241,
+      "revive": 106995,
+      "xlife": 11103,
+      "poison": 400659
     }
   },
   {
     "timestamp": "2026-02-25T20:00:00.000Z",
     "consumables": {
-      "attack": 111689,
-      "revive": 141982,
-      "xlife": 14384,
-      "poison": 246793
+      "attack": 176217,
+      "revive": 106640,
+      "xlife": 11102,
+      "poison": 400589
     }
   },
   {
     "timestamp": "2026-02-25T21:00:00.000Z",
     "consumables": {
-      "attack": 107045,
-      "revive": 140328,
-      "xlife": 13788,
-      "poison": 245188
+      "attack": 171813,
+      "revive": 104993,
+      "xlife": 10499,
+      "poison": 398682
     }
   },
   {
     "timestamp": "2026-02-25T22:00:00.000Z",
     "consumables": {
-      "attack": 103858,
-      "revive": 141553,
-      "xlife": 13310,
-      "poison": 244760
+      "attack": 168546,
+      "revive": 104243,
+      "xlife": 9984,
+      "poison": 398224
     }
   },
   {
     "timestamp": "2026-02-25T23:00:00.000Z",
     "consumables": {
-      "attack": 101692,
-      "revive": 139646,
-      "xlife": 13214,
-      "poison": 244486
+      "attack": 166060,
+      "revive": 102290,
+      "xlife": 9836,
+      "poison": 397904
     }
   },
   {
     "timestamp": "2026-02-26T00:00:00.000Z",
     "consumables": {
-      "attack": 99558,
-      "revive": 138260,
-      "xlife": 12894,
-      "poison": 242294
+      "attack": 163991,
+      "revive": 100848,
+      "xlife": 9526,
+      "poison": 395707
     }
   },
   {
     "timestamp": "2026-02-26T01:00:00.000Z",
     "consumables": {
-      "attack": 96466,
-      "revive": 137469,
-      "xlife": 12663,
-      "poison": 241368
+      "attack": 159653,
+      "revive": 97227,
+      "xlife": 9229,
+      "poison": 394778
     }
   },
   {
     "timestamp": "2026-02-26T02:00:00.000Z",
     "consumables": {
-      "attack": 96462,
-      "revive": 137254,
-      "xlife": 12639,
-      "poison": 246645
+      "attack": 159634,
+      "revive": 96593,
+      "xlife": 9197,
+      "poison": 394655
     }
   },
   {
     "timestamp": "2026-02-26T03:00:00.000Z",
     "consumables": {
-      "attack": 96184,
-      "revive": 142364,
-      "xlife": 12636,
-      "poison": 246023
+      "attack": 159333,
+      "revive": 96574,
+      "xlife": 9175,
+      "poison": 394015
     }
   },
   {
     "timestamp": "2026-02-26T04:00:00.000Z",
     "consumables": {
-      "attack": 96173,
-      "revive": 145505,
-      "xlife": 12638,
-      "poison": 246972
+      "attack": 159322,
+      "revive": 99715,
+      "xlife": 9170,
+      "poison": 394973
     }
   },
   {
     "timestamp": "2026-02-26T05:00:00.000Z",
     "consumables": {
-      "attack": 96167,
-      "revive": 145377,
-      "xlife": 12638,
-      "poison": 246742
+      "attack": 159316,
+      "revive": 99548,
+      "xlife": 9170,
+      "poison": 394693
     }
   },
   {
     "timestamp": "2026-02-26T06:00:00.000Z",
     "consumables": {
-      "attack": 96136,
-      "revive": 146805,
-      "xlife": 12664,
-      "poison": 244536
+      "attack": 159285,
+      "revive": 101022,
+      "xlife": 9195,
+      "poison": 392582
     }
   },
   {
     "timestamp": "2026-02-26T07:00:00.000Z",
     "consumables": {
-      "attack": 105013,
-      "revive": 147805,
-      "xlife": 12726,
-      "poison": 258110
+      "attack": 168223,
+      "revive": 102025,
+      "xlife": 9257,
+      "poison": 406367
     }
   },
   {
     "timestamp": "2026-02-26T08:00:00.000Z",
     "consumables": {
-      "attack": 104981,
-      "revive": 148881,
-      "xlife": 12742,
-      "poison": 257785
+      "attack": 168191,
+      "revive": 103101,
+      "xlife": 9273,
+      "poison": 406042
     }
   },
   {
     "timestamp": "2026-02-26T09:00:00.000Z",
     "consumables": {
-      "attack": 104966,
-      "revive": 149323,
-      "xlife": 12750,
-      "poison": 257535
+      "attack": 168179,
+      "revive": 103541,
+      "xlife": 9282,
+      "poison": 405842
     }
   },
   {
     "timestamp": "2026-02-26T10:00:00.000Z",
     "consumables": {
-      "attack": 105241,
-      "revive": 149124,
-      "xlife": 12742,
-      "poison": 257384
+      "attack": 168463,
+      "revive": 103371,
+      "xlife": 9274,
+      "poison": 405691
     }
   },
   {
     "timestamp": "2026-02-26T11:00:00.000Z",
     "consumables": {
-      "attack": 105189,
-      "revive": 148983,
-      "xlife": 12728,
-      "poison": 257042
+      "attack": 168405,
+      "revive": 103256,
+      "xlife": 9260,
+      "poison": 405399
     }
   },
   {
     "timestamp": "2026-02-26T12:00:00.000Z",
     "consumables": {
-      "attack": 105840,
-      "revive": 150619,
-      "xlife": 12754,
-      "poison": 257587
+      "attack": 169056,
+      "revive": 104885,
+      "xlife": 9286,
+      "poison": 405944
     }
   },
   {
     "timestamp": "2026-02-26T13:00:00.000Z",
     "consumables": {
-      "attack": 105757,
-      "revive": 151121,
-      "xlife": 12751,
-      "poison": 259022
+      "attack": 168973,
+      "revive": 105393,
+      "xlife": 9283,
+      "poison": 407379
     }
   },
   {
     "timestamp": "2026-02-26T14:00:00.000Z",
     "consumables": {
-      "attack": 106413,
-      "revive": 151419,
-      "xlife": 12743,
-      "poison": 258722
+      "attack": 169660,
+      "revive": 105769,
+      "xlife": 9275,
+      "poison": 407079
     }
   },
   {
     "timestamp": "2026-02-26T15:00:00.000Z",
     "consumables": {
-      "attack": 106322,
-      "revive": 150405,
-      "xlife": 12740,
-      "poison": 258661
+      "attack": 170078,
+      "revive": 108436,
+      "xlife": 9332,
+      "poison": 407019
     }
   },
   {
     "timestamp": "2026-02-26T16:00:00.000Z",
     "consumables": {
-      "attack": 105049,
-      "revive": 148427,
-      "xlife": 12472,
-      "poison": 257660
+      "attack": 180439,
+      "revive": 119554,
+      "xlife": 9083,
+      "poison": 406568
     }
   },
   {
     "timestamp": "2026-02-26T17:00:00.000Z",
     "consumables": {
-      "attack": 103546,
-      "revive": 144885,
-      "xlife": 12085,
-      "poison": 256083
+      "attack": 178916,
+      "revive": 119963,
+      "xlife": 8686,
+      "poison": 404891
     }
   },
   {
     "timestamp": "2026-02-26T18:00:00.000Z",
     "consumables": {
-      "attack": 103227,
-      "revive": 142850,
-      "xlife": 12064,
-      "poison": 255749
+      "attack": 178616,
+      "revive": 120106,
+      "xlife": 8726,
+      "poison": 404557
     }
   },
   {
     "timestamp": "2026-02-26T19:00:00.000Z",
     "consumables": {
-      "attack": 102921,
-      "revive": 141847,
-      "xlife": 12058,
-      "poison": 255649
+      "attack": 178398,
+      "revive": 119392,
+      "xlife": 8717,
+      "poison": 404457
     }
   },
   {
     "timestamp": "2026-02-26T20:00:00.000Z",
     "consumables": {
-      "attack": 102565,
-      "revive": 139877,
-      "xlife": 12055,
-      "poison": 255645
+      "attack": 178127,
+      "revive": 117184,
+      "xlife": 8715,
+      "poison": 404453
     }
   },
   {
     "timestamp": "2026-02-26T21:00:00.000Z",
     "consumables": {
-      "attack": 101339,
-      "revive": 138244,
-      "xlife": 11936,
-      "poison": 252126
+      "attack": 176672,
+      "revive": 115536,
+      "xlife": 8586,
+      "poison": 401034
     }
   },
   {
     "timestamp": "2026-02-26T22:00:00.000Z",
     "consumables": {
-      "attack": 99197,
-      "revive": 137785,
-      "xlife": 11647,
-      "poison": 250664
+      "attack": 174525,
+      "revive": 115048,
+      "xlife": 8312,
+      "poison": 399632
     }
   },
   {
     "timestamp": "2026-02-26T23:00:00.000Z",
     "consumables": {
-      "attack": 97435,
-      "revive": 136094,
-      "xlife": 11428,
-      "poison": 250343
+      "attack": 172918,
+      "revive": 113354,
+      "xlife": 8085,
+      "poison": 399251
     }
   },
   {
     "timestamp": "2026-02-27T00:00:00.000Z",
     "consumables": {
-      "attack": 97056,
-      "revive": 134925,
-      "xlife": 11373,
-      "poison": 248815
+      "attack": 172449,
+      "revive": 112185,
+      "xlife": 8030,
+      "poison": 398446
     }
   },
   {
     "timestamp": "2026-02-27T01:00:00.000Z",
     "consumables": {
-      "attack": 97042,
-      "revive": 134850,
-      "xlife": 11373,
-      "poison": 248609
+      "attack": 172441,
+      "revive": 112124,
+      "xlife": 8030,
+      "poison": 398240
     }
   },
   {
     "timestamp": "2026-02-27T02:00:00.000Z",
     "consumables": {
-      "attack": 96874,
-      "revive": 134658,
-      "xlife": 11367,
-      "poison": 248235
+      "attack": 172273,
+      "revive": 111932,
+      "xlife": 8024,
+      "poison": 397866
     }
   },
   {
     "timestamp": "2026-02-27T03:00:00.000Z",
     "consumables": {
-      "attack": 96729,
-      "revive": 134387,
-      "xlife": 11319,
-      "poison": 247685
+      "attack": 172128,
+      "revive": 111661,
+      "xlife": 7977,
+      "poison": 397330
     }
   },
   {
     "timestamp": "2026-02-27T04:00:00.000Z",
     "consumables": {
-      "attack": 96712,
-      "revive": 134270,
-      "xlife": 11319,
-      "poison": 247507
+      "attack": 172115,
+      "revive": 111544,
+      "xlife": 7977,
+      "poison": 397152
     }
   },
   {
     "timestamp": "2026-02-27T05:00:00.000Z",
     "consumables": {
-      "attack": 96712,
-      "revive": 134270,
-      "xlife": 11319,
-      "poison": 247507
+      "attack": 172115,
+      "revive": 111544,
+      "xlife": 7977,
+      "poison": 397152
     }
   },
   {
     "timestamp": "2026-02-27T06:00:00.000Z",
     "consumables": {
-      "attack": 96676,
-      "revive": 133599,
-      "xlife": 11292,
-      "poison": 246826
+      "attack": 172079,
+      "revive": 110815,
+      "xlife": 7944,
+      "poison": 396425
     }
   },
   {
     "timestamp": "2026-02-27T07:00:00.000Z",
     "consumables": {
-      "attack": 96538,
-      "revive": 131996,
-      "xlife": 11222,
-      "poison": 246220
+      "attack": 171951,
+      "revive": 109241,
+      "xlife": 7885,
+      "poison": 395833
     }
   },
   {
     "timestamp": "2026-02-27T08:00:00.000Z",
     "consumables": {
-      "attack": 95277,
-      "revive": 131140,
-      "xlife": 11144,
-      "poison": 242908
+      "attack": 170712,
+      "revive": 108470,
+      "xlife": 7757,
+      "poison": 392908
     }
   },
   {
     "timestamp": "2026-02-27T09:00:00.000Z",
     "consumables": {
-      "attack": 95277,
-      "revive": 131140,
-      "xlife": 11184,
-      "poison": 242893
+      "attack": 170712,
+      "revive": 108470,
+      "xlife": 7755,
+      "poison": 392843
     }
   },
   {
     "timestamp": "2026-02-27T10:00:00.000Z",
     "consumables": {
-      "attack": 95262,
-      "revive": 131129,
-      "xlife": 11192,
-      "poison": 242258
+      "attack": 170697,
+      "revive": 108459,
+      "xlife": 7753,
+      "poison": 392223
     }
   },
   {
     "timestamp": "2026-02-27T11:00:00.000Z",
     "consumables": {
-      "attack": 96532,
-      "revive": 134059,
-      "xlife": 11250,
-      "poison": 241530
+      "attack": 170459,
+      "revive": 106606,
+      "xlife": 7722,
+      "poison": 390261
     }
   },
   {
     "timestamp": "2026-02-27T12:00:00.000Z",
     "consumables": {
-      "attack": 97205,
-      "revive": 134667,
-      "xlife": 11253,
-      "poison": 245088
+      "attack": 170145,
+      "revive": 105774,
+      "xlife": 7720,
+      "poison": 388633
     }
   },
   {
     "timestamp": "2026-02-27T13:00:00.000Z",
     "consumables": {
-      "attack": 97748,
-      "revive": 134730,
-      "xlife": 12449,
-      "poison": 243776
+      "attack": 169943,
+      "revive": 104767,
+      "xlife": 7715,
+      "poison": 387271
     }
   },
   {
     "timestamp": "2026-02-27T14:00:00.000Z",
     "consumables": {
-      "attack": 96653,
-      "revive": 137125,
-      "xlife": 12364,
-      "poison": 242517
+      "attack": 168688,
+      "revive": 106680,
+      "xlife": 7622,
+      "poison": 386029
     }
   },
   {
     "timestamp": "2026-02-27T15:00:00.000Z",
     "consumables": {
-      "attack": 102883,
-      "revive": 137105,
-      "xlife": 12098,
-      "poison": 242038
+      "attack": 175016,
+      "revive": 106706,
+      "xlife": 7360,
+      "poison": 385491
     }
   },
   {
     "timestamp": "2026-02-27T16:00:00.000Z",
     "consumables": {
-      "attack": 110656,
-      "revive": 142962,
-      "xlife": 11813,
-      "poison": 239221
+      "attack": 182367,
+      "revive": 112527,
+      "xlife": 7072,
+      "poison": 382751
     }
   },
   {
     "timestamp": "2026-02-27T17:00:00.000Z",
     "consumables": {
-      "attack": 113608,
-      "revive": 144125,
-      "xlife": 12747,
-      "poison": 237771
+      "attack": 185337,
+      "revive": 113448,
+      "xlife": 8008,
+      "poison": 381386
     }
   },
   {
     "timestamp": "2026-02-27T18:00:00.000Z",
     "consumables": {
-      "attack": 113486,
-      "revive": 145380,
-      "xlife": 12803,
-      "poison": 236863
+      "attack": 185215,
+      "revive": 114680,
+      "xlife": 8064,
+      "poison": 380070
     }
   },
   {
     "timestamp": "2026-02-27T19:00:00.000Z",
     "consumables": {
-      "attack": 112132,
-      "revive": 147879,
-      "xlife": 13369,
-      "poison": 236560
+      "attack": 183924,
+      "revive": 117133,
+      "xlife": 8630,
+      "poison": 379771
     }
   },
   {
     "timestamp": "2026-02-27T20:00:00.000Z",
     "consumables": {
-      "attack": 111529,
-      "revive": 147801,
-      "xlife": 13350,
-      "poison": 236180
+      "attack": 183429,
+      "revive": 117182,
+      "xlife": 8611,
+      "poison": 379391
     }
   },
   {
     "timestamp": "2026-02-27T21:00:00.000Z",
     "consumables": {
-      "attack": 112208,
-      "revive": 146977,
-      "xlife": 13330,
-      "poison": 235780
+      "attack": 184069,
+      "revive": 117956,
+      "xlife": 8637,
+      "poison": 379005
     }
   },
   {
     "timestamp": "2026-02-27T22:00:00.000Z",
     "consumables": {
-      "attack": 110863,
-      "revive": 145917,
-      "xlife": 13292,
-      "poison": 235310
+      "attack": 204340,
+      "revive": 127999,
+      "xlife": 9654,
+      "poison": 378535
     }
   },
   {
     "timestamp": "2026-02-27T23:00:00.000Z",
     "consumables": {
-      "attack": 100585,
-      "revive": 143889,
-      "xlife": 13192,
-      "poison": 234930
+      "attack": 195802,
+      "revive": 129211,
+      "xlife": 9567,
+      "poison": 378162
     }
   },
   {
     "timestamp": "2026-02-28T00:00:00.000Z",
     "consumables": {
-      "attack": 93978,
-      "revive": 140642,
-      "xlife": 12900,
-      "poison": 231198
+      "attack": 191944,
+      "revive": 129525,
+      "xlife": 9428,
+      "poison": 384539
     }
   },
   {
     "timestamp": "2026-02-28T01:00:00.000Z",
     "consumables": {
-      "attack": 91532,
-      "revive": 139690,
-      "xlife": 12746,
-      "poison": 229374
+      "attack": 189504,
+      "revive": 128541,
+      "xlife": 9264,
+      "poison": 382404
     }
   },
   {
     "timestamp": "2026-02-28T02:00:00.000Z",
     "consumables": {
-      "attack": 91515,
-      "revive": 139671,
-      "xlife": 12745,
-      "poison": 229356
+      "attack": 189504,
+      "revive": 128522,
+      "xlife": 9263,
+      "poison": 382401
     }
   },
   {
     "timestamp": "2026-02-28T03:00:00.000Z",
     "consumables": {
-      "attack": 91460,
-      "revive": 139173,
-      "xlife": 12739,
-      "poison": 229104
+      "attack": 189414,
+      "revive": 127946,
+      "xlife": 9257,
+      "poison": 382137
     }
   },
   {
     "timestamp": "2026-02-28T04:00:00.000Z",
     "consumables": {
-      "attack": 91431,
-      "revive": 138669,
-      "xlife": 12739,
-      "poison": 228481
+      "attack": 189385,
+      "revive": 127527,
+      "xlife": 9257,
+      "poison": 381419
     }
   },
   {
     "timestamp": "2026-02-28T05:00:00.000Z",
     "consumables": {
-      "attack": 91376,
-      "revive": 138189,
-      "xlife": 12735,
-      "poison": 227896
+      "attack": 189326,
+      "revive": 126991,
+      "xlife": 9253,
+      "poison": 380736
     }
   },
   {
     "timestamp": "2026-02-28T06:00:00.000Z",
     "consumables": {
-      "attack": 91357,
-      "revive": 137710,
-      "xlife": 12695,
-      "poison": 224981
+      "attack": 189307,
+      "revive": 126445,
+      "xlife": 9204,
+      "poison": 377622
     }
   },
   {
     "timestamp": "2026-02-28T07:00:00.000Z",
     "consumables": {
-      "attack": 91202,
-      "revive": 137307,
-      "xlife": 12694,
-      "poison": 224096
+      "attack": 189152,
+      "revive": 126043,
+      "xlife": 9203,
+      "poison": 376687
     }
   },
   {
     "timestamp": "2026-02-28T08:00:00.000Z",
     "consumables": {
-      "attack": 91172,
-      "revive": 137009,
-      "xlife": 12694,
-      "poison": 222636
+      "attack": 189140,
+      "revive": 125776,
+      "xlife": 9202,
+      "poison": 375277
     }
   },
   {
     "timestamp": "2026-02-28T09:00:00.000Z",
     "consumables": {
-      "attack": 91124,
-      "revive": 136471,
-      "xlife": 12675,
-      "poison": 221927
+      "attack": 189092,
+      "revive": 125210,
+      "xlife": 9186,
+      "poison": 374976
     }
   },
   {
     "timestamp": "2026-02-28T10:00:00.000Z",
     "consumables": {
-      "attack": 90919,
-      "revive": 135367,
-      "xlife": 12632,
-      "poison": 220893
+      "attack": 188961,
+      "revive": 124518,
+      "xlife": 9148,
+      "poison": 374144
     }
   },
   {
     "timestamp": "2026-02-28T11:00:00.000Z",
     "consumables": {
-      "attack": 90594,
-      "revive": 134776,
-      "xlife": 12600,
-      "poison": 220038
+      "attack": 188636,
+      "revive": 124041,
+      "xlife": 9116,
+      "poison": 373291
     }
   },
   {
     "timestamp": "2026-02-28T12:00:00.000Z",
     "consumables": {
-      "attack": 87402,
-      "revive": 128583,
-      "xlife": 12497,
-      "poison": 217685
+      "attack": 185631,
+      "revive": 117985,
+      "xlife": 9012,
+      "poison": 370838
     }
   },
   {
     "timestamp": "2026-02-28T13:00:00.000Z",
     "consumables": {
-      "attack": 87402,
-      "revive": 128343,
-      "xlife": 12497,
-      "poison": 217685
+      "attack": 185631,
+      "revive": 117235,
+      "xlife": 9012,
+      "poison": 370838
     }
   },
   {
     "timestamp": "2026-02-28T14:00:00.000Z",
     "consumables": {
-      "attack": 85635,
-      "revive": 127080,
-      "xlife": 12410,
-      "poison": 224208
+      "attack": 183864,
+      "revive": 115663,
+      "xlife": 8913,
+      "poison": 368344
     }
   },
   {
     "timestamp": "2026-02-28T15:00:00.000Z",
     "consumables": {
-      "attack": 94317,
-      "revive": 127036,
-      "xlife": 12502,
-      "poison": 225627
+      "attack": 182574,
+      "revive": 114592,
+      "xlife": 8905,
+      "poison": 367661
     }
   },
   {
     "timestamp": "2026-02-28T16:00:00.000Z",
     "consumables": {
-      "attack": 93505,
-      "revive": 126790,
-      "xlife": 12554,
-      "poison": 231615
+      "attack": 181637,
+      "revive": 110179,
+      "xlife": 8896,
+      "poison": 367617
     }
   },
   {
     "timestamp": "2026-02-28T17:00:00.000Z",
     "consumables": {
-      "attack": 93770,
-      "revive": 136256,
-      "xlife": 12690,
-      "poison": 240149
+      "attack": 181353,
+      "revive": 108656,
+      "xlife": 8878,
+      "poison": 366369
     }
   },
   {
     "timestamp": "2026-02-28T18:00:00.000Z",
     "consumables": {
-      "attack": 97744,
-      "revive": 145417,
-      "xlife": 12738,
-      "poison": 239963
+      "attack": 181333,
+      "revive": 108385,
+      "xlife": 8875,
+      "poison": 366087
     }
   },
   {
     "timestamp": "2026-02-28T19:00:00.000Z",
     "consumables": {
-      "attack": 100716,
-      "revive": 142530,
-      "xlife": 12738,
-      "poison": 241234
+      "attack": 182398,
+      "revive": 104117,
+      "xlife": 8875,
+      "poison": 365183
     }
   },
   {
     "timestamp": "2026-02-28T20:00:00.000Z",
     "consumables": {
-      "attack": 100742,
-      "revive": 144415,
-      "xlife": 12759,
-      "poison": 239433
+      "attack": 182425,
+      "revive": 105743,
+      "xlife": 8896,
+      "poison": 363432
     }
   },
   {
     "timestamp": "2026-02-28T21:00:00.000Z",
     "consumables": {
-      "attack": 102490,
-      "revive": 145528,
-      "xlife": 12759,
-      "poison": 240883
+      "attack": 184163,
+      "revive": 106624,
+      "xlife": 8896,
+      "poison": 364882
     }
   },
   {
     "timestamp": "2026-02-28T22:00:00.000Z",
     "consumables": {
-      "attack": 107296,
-      "revive": 145832,
-      "xlife": 13653,
-      "poison": 240043
+      "attack": 188919,
+      "revive": 107048,
+      "xlife": 9790,
+      "poison": 364119
     }
   },
   {
     "timestamp": "2026-02-28T23:00:00.000Z",
     "consumables": {
-      "attack": 105195,
-      "revive": 150385,
-      "xlife": 13518,
-      "poison": 239129
+      "attack": 186683,
+      "revive": 111684,
+      "xlife": 9652,
+      "poison": 363045
     }
   },
   {
     "timestamp": "2026-03-01T00:00:00.000Z",
     "consumables": {
-      "attack": 112560,
-      "revive": 150524,
-      "xlife": 13455,
-      "poison": 238804
+      "attack": 194031,
+      "revive": 111802,
+      "xlife": 9591,
+      "poison": 362924
     }
   },
   {
     "timestamp": "2026-03-01T01:00:00.000Z",
     "consumables": {
-      "attack": 114319,
-      "revive": 152756,
-      "xlife": 13692,
-      "poison": 245175
+      "attack": 195738,
+      "revive": 114071,
+      "xlife": 9827,
+      "poison": 369295
     }
   },
   {
     "timestamp": "2026-03-01T02:00:00.000Z",
     "consumables": {
-      "attack": 114319,
-      "revive": 151910,
-      "xlife": 13680,
-      "poison": 242070
+      "attack": 195741,
+      "revive": 113301,
+      "xlife": 9815,
+      "poison": 366389
     }
   },
   {
     "timestamp": "2026-03-01T03:00:00.000Z",
     "consumables": {
-      "attack": 114284,
-      "revive": 153099,
-      "xlife": 13697,
-      "poison": 241770
+      "attack": 195714,
+      "revive": 114492,
+      "xlife": 9832,
+      "poison": 365789
     }
   },
   {
     "timestamp": "2026-03-01T04:00:00.000Z",
     "consumables": {
-      "attack": 114057,
-      "revive": 153986,
-      "xlife": 13791,
-      "poison": 240782
+      "attack": 195522,
+      "revive": 115315,
+      "xlife": 9928,
+      "poison": 364851
     }
   },
   {
     "timestamp": "2026-03-01T05:00:00.000Z",
     "consumables": {
-      "attack": 114046,
-      "revive": 155127,
-      "xlife": 13789,
-      "poison": 251607
+      "attack": 195511,
+      "revive": 119500,
+      "xlife": 9926,
+      "poison": 375676
     }
   },
   {
     "timestamp": "2026-03-01T06:00:00.000Z",
     "consumables": {
-      "attack": 113984,
-      "revive": 153320,
-      "xlife": 13766,
-      "poison": 248507
+      "attack": 195438,
+      "revive": 118944,
+      "xlife": 9903,
+      "poison": 382176
     }
   },
   {
     "timestamp": "2026-03-01T07:00:00.000Z",
     "consumables": {
-      "attack": 113644,
-      "revive": 151993,
-      "xlife": 13766,
-      "poison": 247762
+      "attack": 195147,
+      "revive": 130460,
+      "xlife": 9921,
+      "poison": 387280
     }
   },
   {
     "timestamp": "2026-03-01T08:00:00.000Z",
     "consumables": {
-      "attack": 113644,
-      "revive": 151993,
-      "xlife": 13766,
-      "poison": 247762
+      "attack": 195147,
+      "revive": 130460,
+      "xlife": 9921,
+      "poison": 388780
     }
   },
   {
     "timestamp": "2026-03-01T09:00:00.000Z",
     "consumables": {
-      "attack": 113478,
-      "revive": 149759,
-      "xlife": 13765,
-      "poison": 246904
+      "attack": 194998,
+      "revive": 130610,
+      "xlife": 9920,
+      "poison": 388054
     }
   },
   {
     "timestamp": "2026-03-01T10:00:00.000Z",
     "consumables": {
-      "attack": 112851,
-      "revive": 147584,
-      "xlife": 13745,
-      "poison": 243296
+      "attack": 198851,
+      "revive": 132588,
+      "xlife": 9961,
+      "poison": 415465
     }
   },
   {
     "timestamp": "2026-03-01T11:00:00.000Z",
     "consumables": {
-      "attack": 109896,
-      "revive": 145627,
-      "xlife": 13675,
-      "poison": 241344
+      "attack": 200313,
+      "revive": 131611,
+      "xlife": 9888,
+      "poison": 413596
     }
   },
   {
     "timestamp": "2026-03-01T12:00:00.000Z",
     "consumables": {
-      "attack": 107376,
-      "revive": 143607,
-      "xlife": 13623,
-      "poison": 240204
+      "attack": 197825,
+      "revive": 129861,
+      "xlife": 9838,
+      "poison": 412486
     }
   },
   {
     "timestamp": "2026-03-01T13:00:00.000Z",
     "consumables": {
-      "attack": 105611,
-      "revive": 141399,
-      "xlife": 13540,
-      "poison": 237151
+      "attack": 196033,
+      "revive": 127544,
+      "xlife": 9757,
+      "poison": 409398
     }
   },
   {
     "timestamp": "2026-03-01T14:00:00.000Z",
     "consumables": {
-      "attack": 105557,
-      "revive": 140302,
-      "xlife": 13537,
-      "poison": 236061
+      "attack": 195986,
+      "revive": 126288,
+      "xlife": 9753,
+      "poison": 408278
     }
   },
   {
     "timestamp": "2026-03-01T15:00:00.000Z",
     "consumables": {
-      "attack": 105398,
-      "revive": 137443,
-      "xlife": 13531,
-      "poison": 234317
+      "attack": 195816,
+      "revive": 123814,
+      "xlife": 9748,
+      "poison": 406654
     }
   },
   {
     "timestamp": "2026-03-01T16:00:00.000Z",
     "consumables": {
-      "attack": 102289,
-      "revive": 136024,
-      "xlife": 13495,
-      "poison": 233646
+      "attack": 192711,
+      "revive": 122481,
+      "xlife": 9708,
+      "poison": 405933
     }
   },
   {
     "timestamp": "2026-03-01T17:00:00.000Z",
     "consumables": {
-      "attack": 101629,
-      "revive": 134255,
-      "xlife": 13459,
-      "poison": 232291
+      "attack": 191940,
+      "revive": 120705,
+      "xlife": 9668,
+      "poison": 404578
     }
   },
   {
     "timestamp": "2026-03-01T18:00:00.000Z",
     "consumables": {
-      "attack": 101227,
-      "revive": 132336,
-      "xlife": 13457,
-      "poison": 231110
+      "attack": 191548,
+      "revive": 118908,
+      "xlife": 9668,
+      "poison": 403506
     }
   },
   {
     "timestamp": "2026-03-01T19:00:00.000Z",
     "consumables": {
-      "attack": 100225,
-      "revive": 128989,
-      "xlife": 13437,
-      "poison": 230481
+      "attack": 190572,
+      "revive": 115718,
+      "xlife": 9648,
+      "poison": 402933
     }
   },
   {
     "timestamp": "2026-03-01T20:00:00.000Z",
     "consumables": {
-      "attack": 99376,
-      "revive": 126907,
-      "xlife": 13356,
-      "poison": 225801
+      "attack": 189759,
+      "revive": 113614,
+      "xlife": 9565,
+      "poison": 398289
     }
   },
   {
     "timestamp": "2026-03-01T21:00:00.000Z",
     "consumables": {
-      "attack": 97740,
-      "revive": 122928,
-      "xlife": 13256,
-      "poison": 223962
+      "attack": 188082,
+      "revive": 109418,
+      "xlife": 9462,
+      "poison": 396436
     }
   },
   {
     "timestamp": "2026-03-01T22:00:00.000Z",
     "consumables": {
-      "attack": 97619,
-      "revive": 123672,
-      "xlife": 13243,
-      "poison": 220044
+      "attack": 187986,
+      "revive": 107328,
+      "xlife": 9399,
+      "poison": 392864
     }
   },
   {
     "timestamp": "2026-03-01T23:00:00.000Z",
     "consumables": {
-      "attack": 97533,
-      "revive": 126019,
-      "xlife": 13265,
-      "poison": 229985
+      "attack": 187882,
+      "revive": 105860,
+      "xlife": 9350,
+      "poison": 391909
     }
   },
   {
     "timestamp": "2026-03-02T00:00:00.000Z",
     "consumables": {
-      "attack": 97510,
-      "revive": 125787,
-      "xlife": 13286,
-      "poison": 239572
+      "attack": 187844,
+      "revive": 104963,
+      "xlife": 9321,
+      "poison": 390696
     }
   },
   {
     "timestamp": "2026-03-02T01:00:00.000Z",
     "consumables": {
-      "attack": 98273,
-      "revive": 132030,
-      "xlife": 13316,
-      "poison": 239003
+      "attack": 187660,
+      "revive": 104270,
+      "xlife": 9318,
+      "poison": 390218
     }
   },
   {
     "timestamp": "2026-03-02T02:00:00.000Z",
     "consumables": {
-      "attack": 98127,
-      "revive": 133195,
-      "xlife": 13308,
-      "poison": 248902
+      "attack": 187514,
+      "revive": 103676,
+      "xlife": 9310,
+      "poison": 388955
     }
   },
   {
     "timestamp": "2026-03-02T03:00:00.000Z",
     "consumables": {
-      "attack": 98577,
-      "revive": 133580,
-      "xlife": 13424,
-      "poison": 248391
+      "attack": 187962,
+      "revive": 104069,
+      "xlife": 9416,
+      "poison": 388410
     }
   },
   {
     "timestamp": "2026-03-02T04:00:00.000Z",
     "consumables": {
-      "attack": 98472,
-      "revive": 133683,
-      "xlife": 13512,
-      "poison": 247087
+      "attack": 187893,
+      "revive": 104108,
+      "xlife": 9499,
+      "poison": 387158
     }
   },
   {
     "timestamp": "2026-03-02T05:00:00.000Z",
     "consumables": {
-      "attack": 98469,
-      "revive": 134610,
-      "xlife": 13501,
-      "poison": 244197
+      "attack": 187889,
+      "revive": 105053,
+      "xlife": 9487,
+      "poison": 384132
     }
   },
   {
     "timestamp": "2026-03-02T06:00:00.000Z",
     "consumables": {
-      "attack": 98488,
-      "revive": 133782,
-      "xlife": 13481,
-      "poison": 239967
+      "attack": 187907,
+      "revive": 104343,
+      "xlife": 9468,
+      "poison": 380242
     }
   },
   {
     "timestamp": "2026-03-02T07:00:00.000Z",
     "consumables": {
-      "attack": 99051,
-      "revive": 139227,
-      "xlife": 13455,
-      "poison": 235209
+      "attack": 188468,
+      "revive": 109584,
+      "xlife": 9440,
+      "poison": 375474
     }
   },
   {
     "timestamp": "2026-03-02T08:00:00.000Z",
     "consumables": {
-      "attack": 98976,
-      "revive": 138840,
-      "xlife": 13453,
-      "poison": 234009
+      "attack": 188393,
+      "revive": 109220,
+      "xlife": 9438,
+      "poison": 374374
     }
   },
   {
     "timestamp": "2026-03-02T09:00:00.000Z",
     "consumables": {
-      "attack": 98975,
-      "revive": 138170,
-      "xlife": 13433,
-      "poison": 231809
+      "attack": 188341,
+      "revive": 108588,
+      "xlife": 9418,
+      "poison": 372474
     }
   },
   {
     "timestamp": "2026-03-02T10:00:00.000Z",
     "consumables": {
-      "attack": 98959,
-      "revive": 137126,
-      "xlife": 13417,
-      "poison": 232510
+      "attack": 188326,
+      "revive": 107471,
+      "xlife": 9406,
+      "poison": 372785
     }
   },
   {
     "timestamp": "2026-03-02T11:00:00.000Z",
     "consumables": {
-      "attack": 98867,
-      "revive": 140311,
-      "xlife": 13474,
-      "poison": 250470
+      "attack": 188216,
+      "revive": 110789,
+      "xlife": 9463,
+      "poison": 390645
     }
   },
   {
     "timestamp": "2026-03-02T12:00:00.000Z",
     "consumables": {
-      "attack": 98664,
-      "revive": 137734,
-      "xlife": 13467,
-      "poison": 248497
+      "attack": 188028,
+      "revive": 108467,
+      "xlife": 9456,
+      "poison": 389097
     }
   },
   {
     "timestamp": "2026-03-02T13:00:00.000Z",
     "consumables": {
-      "attack": 98132,
-      "revive": 140017,
-      "xlife": 13472,
-      "poison": 257967
+      "attack": 187627,
+      "revive": 110744,
+      "xlife": 9460,
+      "poison": 398277
     }
   },
   {
     "timestamp": "2026-03-02T14:00:00.000Z",
     "consumables": {
-      "attack": 96207,
-      "revive": 143018,
-      "xlife": 14588,
-      "poison": 255170
+      "attack": 186254,
+      "revive": 113800,
+      "xlife": 10578,
+      "poison": 395555
     }
   },
   {
     "timestamp": "2026-03-02T15:00:00.000Z",
     "consumables": {
-      "attack": 94737,
-      "revive": 148740,
-      "xlife": 14509,
-      "poison": 253911
+      "attack": 184724,
+      "revive": 118773,
+      "xlife": 10501,
+      "poison": 394371
     }
   },
   {
     "timestamp": "2026-03-02T16:00:00.000Z",
     "consumables": {
-      "attack": 92436,
-      "revive": 141847,
-      "xlife": 14425,
-      "poison": 252261
+      "attack": 182392,
+      "revive": 122410,
+      "xlife": 10421,
+      "poison": 393531
     }
   },
   {
     "timestamp": "2026-03-02T17:00:00.000Z",
     "consumables": {
-      "attack": 91539,
-      "revive": 137284,
-      "xlife": 14374,
-      "poison": 250726
+      "attack": 181387,
+      "revive": 122732,
+      "xlife": 10366,
+      "poison": 392921
     }
   },
   {
     "timestamp": "2026-03-02T18:00:00.000Z",
     "consumables": {
-      "attack": 90944,
-      "revive": 133662,
-      "xlife": 14345,
-      "poison": 250101
+      "attack": 180787,
+      "revive": 119243,
+      "xlife": 10345,
+      "poison": 392296
     }
   },
   {
     "timestamp": "2026-03-02T19:00:00.000Z",
     "consumables": {
-      "attack": 90564,
-      "revive": 130815,
-      "xlife": 14298,
-      "poison": 249111
+      "attack": 180409,
+      "revive": 118811,
+      "xlife": 10370,
+      "poison": 391336
     }
   },
   {
     "timestamp": "2026-03-02T20:00:00.000Z",
     "consumables": {
-      "attack": 90322,
-      "revive": 128687,
-      "xlife": 14281,
-      "poison": 248550
+      "attack": 180167,
+      "revive": 123049,
+      "xlife": 10403,
+      "poison": 390775
     }
   },
   {
     "timestamp": "2026-03-02T21:00:00.000Z",
     "consumables": {
-      "attack": 89965,
-      "revive": 126035,
-      "xlife": 14252,
-      "poison": 247751
+      "attack": 197875,
+      "revive": 147905,
+      "xlife": 11287,
+      "poison": 389986
     }
   },
   {
     "timestamp": "2026-03-02T22:00:00.000Z",
     "consumables": {
-      "attack": 88241,
-      "revive": 121257,
-      "xlife": 14203,
-      "poison": 245686
+      "attack": 196121,
+      "revive": 153013,
+      "xlife": 11828,
+      "poison": 387936
     }
   },
   {
     "timestamp": "2026-03-02T23:00:00.000Z",
     "consumables": {
-      "attack": 88051,
-      "revive": 120057,
-      "xlife": 14200,
-      "poison": 245291
+      "attack": 196086,
+      "revive": 154052,
+      "xlife": 11825,
+      "poison": 387491
     }
   },
   {
     "timestamp": "2026-03-03T00:00:00.000Z",
     "consumables": {
-      "attack": 88041,
-      "revive": 118934,
-      "xlife": 14199,
-      "poison": 240436
+      "attack": 196076,
+      "revive": 153052,
+      "xlife": 11824,
+      "poison": 383036
     }
   },
   {
     "timestamp": "2026-03-03T01:00:00.000Z",
     "consumables": {
-      "attack": 87766,
-      "revive": 115612,
-      "xlife": 14192,
-      "poison": 239591
+      "attack": 195773,
+      "revive": 149499,
+      "xlife": 11813,
+      "poison": 382468
     }
   },
   {
     "timestamp": "2026-03-03T02:00:00.000Z",
     "consumables": {
-      "attack": 87685,
-      "revive": 115413,
-      "xlife": 14182,
-      "poison": 239531
+      "attack": 195735,
+      "revive": 149352,
+      "xlife": 11804,
+      "poison": 382408
     }
   },
   {
     "timestamp": "2026-03-03T03:00:00.000Z",
     "consumables": {
-      "attack": 87631,
-      "revive": 115022,
-      "xlife": 14180,
-      "poison": 239171
+      "attack": 195681,
+      "revive": 148916,
+      "xlife": 11802,
+      "poison": 382048
     }
   },
   {
     "timestamp": "2026-03-03T04:00:00.000Z",
     "consumables": {
-      "attack": 87378,
-      "revive": 113829,
-      "xlife": 14168,
-      "poison": 238696
+      "attack": 195428,
+      "revive": 147651,
+      "xlife": 11791,
+      "poison": 381548
     }
   },
   {
     "timestamp": "2026-03-03T05:00:00.000Z",
     "consumables": {
-      "attack": 87365,
-      "revive": 113027,
-      "xlife": 14155,
-      "poison": 236771
+      "attack": 195413,
+      "revive": 146900,
+      "xlife": 11778,
+      "poison": 379648
     }
   },
   {
     "timestamp": "2026-03-03T06:00:00.000Z",
     "consumables": {
-      "attack": 87365,
-      "revive": 112332,
-      "xlife": 14155,
-      "poison": 236096
+      "attack": 195413,
+      "revive": 146143,
+      "xlife": 11778,
+      "poison": 378998
     }
   },
   {
     "timestamp": "2026-03-03T07:00:00.000Z",
     "consumables": {
-      "attack": 87345,
-      "revive": 111600,
-      "xlife": 14153,
-      "poison": 235446
+      "attack": 195413,
+      "revive": 145505,
+      "xlife": 11778,
+      "poison": 378448
     }
   },
   {
     "timestamp": "2026-03-03T08:00:00.000Z",
     "consumables": {
-      "attack": 87299,
-      "revive": 109813,
-      "xlife": 14153,
-      "poison": 233647
+      "attack": 195392,
+      "revive": 143950,
+      "xlife": 11778,
+      "poison": 376624
     }
   },
   {
     "timestamp": "2026-03-03T09:00:00.000Z",
     "consumables": {
-      "attack": 87289,
-      "revive": 107789,
-      "xlife": 14153,
-      "poison": 229458
+      "attack": 195382,
+      "revive": 141822,
+      "xlife": 11763,
+      "poison": 372400
     }
   },
   {
     "timestamp": "2026-03-03T10:00:00.000Z",
     "consumables": {
-      "attack": 87251,
-      "revive": 106222,
-      "xlife": 14144,
-      "poison": 226772
+      "attack": 195341,
+      "revive": 140073,
+      "xlife": 11754,
+      "poison": 369568
     }
   },
   {
     "timestamp": "2026-03-03T11:00:00.000Z",
     "consumables": {
-      "attack": 87242,
-      "revive": 104965,
-      "xlife": 14141,
-      "poison": 225582
+      "attack": 195328,
+      "revive": 138771,
+      "xlife": 11751,
+      "poison": 368378
     }
   },
   {
     "timestamp": "2026-03-03T12:00:00.000Z",
     "consumables": {
-      "attack": 86021,
-      "revive": 94882,
-      "xlife": 14072,
-      "poison": 222685
+      "attack": 194588,
+      "revive": 129037,
+      "xlife": 11692,
+      "poison": 365431
     }
   },
   {
     "timestamp": "2026-03-03T13:00:00.000Z",
     "consumables": {
-      "attack": 85730,
-      "revive": 93529,
-      "xlife": 14038,
-      "poison": 220428
+      "attack": 194306,
+      "revive": 127743,
+      "xlife": 11662,
+      "poison": 363124
     }
   },
   {
     "timestamp": "2026-03-03T14:00:00.000Z",
     "consumables": {
-      "attack": 85622,
-      "revive": 90954,
-      "xlife": 14021,
-      "poison": 219033
+      "attack": 194198,
+      "revive": 125052,
+      "xlife": 11647,
+      "poison": 361654
     }
   },
   {
     "timestamp": "2026-03-03T15:00:00.000Z",
     "consumables": {
-      "attack": 85411,
-      "revive": 90356,
-      "xlife": 13987,
-      "poison": 217330
+      "attack": 193987,
+      "revive": 124513,
+      "xlife": 11614,
+      "poison": 360061
     }
   },
   {
     "timestamp": "2026-03-03T16:00:00.000Z",
     "consumables": {
-      "attack": 85083,
-      "revive": 89350,
-      "xlife": 13956,
-      "poison": 214344
+      "attack": 193689,
+      "revive": 123314,
+      "xlife": 11584,
+      "poison": 356925
     }
   },
   {
     "timestamp": "2026-03-03T17:00:00.000Z",
     "consumables": {
-      "attack": 83923,
-      "revive": 84738,
-      "xlife": 13912,
-      "poison": 211797
+      "attack": 192599,
+      "revive": 119149,
+      "xlife": 11537,
+      "poison": 354143
     }
   },
   {
     "timestamp": "2026-03-03T18:00:00.000Z",
     "consumables": {
-      "attack": 83573,
-      "revive": 82590,
-      "xlife": 13911,
-      "poison": 209848
+      "attack": 192166,
+      "revive": 116829,
+      "xlife": 11536,
+      "poison": 351969
     }
   },
   {
     "timestamp": "2026-03-03T19:00:00.000Z",
     "consumables": {
-      "attack": 177105,
-      "revive": 84478,
-      "xlife": 14753,
-      "poison": 208878
+      "attack": 191185,
+      "revive": 113094,
+      "xlife": 11481,
+      "poison": 351034
     }
   },
   {
     "timestamp": "2026-03-03T20:00:00.000Z",
     "consumables": {
-      "attack": 177064,
-      "revive": 84646,
-      "xlife": 14765,
-      "poison": 208635
+      "attack": 191136,
+      "revive": 111531,
+      "xlife": 11481,
+      "poison": 350791
     }
   },
   {
     "timestamp": "2026-03-03T21:00:00.000Z",
     "consumables": {
-      "attack": 176835,
-      "revive": 88218,
-      "xlife": 14754,
-      "poison": 208475
+      "attack": 190921,
+      "revive": 110055,
+      "xlife": 11470,
+      "poison": 350631
     }
   },
   {
     "timestamp": "2026-03-03T22:00:00.000Z",
     "consumables": {
-      "attack": 176564,
-      "revive": 93796,
-      "xlife": 14751,
-      "poison": 208104
+      "attack": 190660,
+      "revive": 108825,
+      "xlife": 11467,
+      "poison": 350310
     }
   },
   {
     "timestamp": "2026-03-03T23:00:00.000Z",
     "consumables": {
-      "attack": 177411,
-      "revive": 94726,
-      "xlife": 15838,
-      "poison": 218054
+      "attack": 190517,
+      "revive": 107567,
+      "xlife": 11450,
+      "poison": 349039
     }
   },
   {
     "timestamp": "2026-03-04T00:00:00.000Z",
     "consumables": {
-      "attack": 177001,
-      "revive": 95291,
-      "xlife": 15755,
-      "poison": 229306
+      "attack": 190077,
+      "revive": 103198,
+      "xlife": 11367,
+      "poison": 345341
     }
   },
   {
     "timestamp": "2026-03-04T01:00:00.000Z",
     "consumables": {
-      "attack": 180909,
-      "revive": 98216,
-      "xlife": 14540,
-      "poison": 229046
+      "attack": 188946,
+      "revive": 97193,
+      "xlife": 11001,
+      "poison": 344821
     }
   },
   {
     "timestamp": "2026-03-04T02:00:00.000Z",
     "consumables": {
-      "attack": 179574,
-      "revive": 96865,
-      "xlife": 14517,
-      "poison": 228861
+      "attack": 188055,
+      "revive": 95935,
+      "xlife": 10979,
+      "poison": 344636
     }
   },
   {
     "timestamp": "2026-03-04T03:00:00.000Z",
     "consumables": {
-      "attack": 179539,
-      "revive": 97057,
-      "xlife": 14509,
-      "poison": 227786
+      "attack": 188015,
+      "revive": 95871,
+      "xlife": 10969,
+      "poison": 343161
     }
   },
   {
     "timestamp": "2026-03-04T04:00:00.000Z",
     "consumables": {
-      "attack": 179493,
-      "revive": 95996,
-      "xlife": 15948,
-      "poison": 227098
+      "attack": 187971,
+      "revive": 94916,
+      "xlife": 12409,
+      "poison": 342513
     }
   },
   {
     "timestamp": "2026-03-04T05:00:00.000Z",
     "consumables": {
-      "attack": 179493,
-      "revive": 103996,
-      "xlife": 15948,
-      "poison": 227098
+      "attack": 187971,
+      "revive": 102788,
+      "xlife": 12408,
+      "poison": 342313
     }
   },
   {
     "timestamp": "2026-03-04T06:00:00.000Z",
     "consumables": {
-      "attack": 179452,
-      "revive": 109027,
-      "xlife": 16246,
-      "poison": 227823
+      "attack": 187930,
+      "revive": 107819,
+      "xlife": 12707,
+      "poison": 343066
     }
   },
   {
     "timestamp": "2026-03-04T07:00:00.000Z",
     "consumables": {
-      "attack": 180082,
-      "revive": 107795,
-      "xlife": 16232,
-      "poison": 229465
+      "attack": 188500,
+      "revive": 106335,
+      "xlife": 12692,
+      "poison": 344912
     }
   },
   {
     "timestamp": "2026-03-04T08:00:00.000Z",
     "consumables": {
-      "attack": 179919,
-      "revive": 111981,
-      "xlife": 16216,
-      "poison": 229105
+      "attack": 188290,
+      "revive": 110597,
+      "xlife": 12676,
+      "poison": 344452
     }
   },
   {
     "timestamp": "2026-03-04T09:00:00.000Z",
     "consumables": {
-      "attack": 179919,
-      "revive": 116163,
-      "xlife": 16203,
-      "poison": 226305
+      "attack": 188286,
+      "revive": 114273,
+      "xlife": 12663,
+      "poison": 341852
     }
   },
   {
     "timestamp": "2026-03-04T10:00:00.000Z",
     "consumables": {
-      "attack": 179869,
-      "revive": 115645,
-      "xlife": 16197,
-      "poison": 226134
+      "attack": 188236,
+      "revive": 113825,
+      "xlife": 12659,
+      "poison": 341696
     }
   },
   {
     "timestamp": "2026-03-04T11:00:00.000Z",
     "consumables": {
-      "attack": 179768,
-      "revive": 115664,
-      "xlife": 16196,
-      "poison": 225649
+      "attack": 188085,
+      "revive": 113802,
+      "xlife": 12658,
+      "poison": 341261
     }
   },
   {
     "timestamp": "2026-03-04T12:00:00.000Z",
     "consumables": {
-      "attack": 179757,
-      "revive": 118671,
-      "xlife": 16381,
-      "poison": 244471
+      "attack": 188074,
+      "revive": 116852,
+      "xlife": 12842,
+      "poison": 360039
     }
   },
   {
     "timestamp": "2026-03-04T13:00:00.000Z",
     "consumables": {
-      "attack": 180047,
-      "revive": 117732,
-      "xlife": 16368,
-      "poison": 242123
+      "attack": 188364,
+      "revive": 115852,
+      "xlife": 12829,
+      "poison": 357743
     }
   },
   {
     "timestamp": "2026-03-04T14:00:00.000Z",
     "consumables": {
-      "attack": 181813,
-      "revive": 117615,
-      "xlife": 16290,
-      "poison": 238588
+      "attack": 190300,
+      "revive": 116230,
+      "xlife": 12746,
+      "poison": 354351
     }
   },
   {
     "timestamp": "2026-03-04T15:00:00.000Z",
     "consumables": {
-      "attack": 179688,
-      "revive": 113881,
-      "xlife": 16238,
-      "poison": 236832
+      "attack": 188375,
+      "revive": 112994,
+      "xlife": 12697,
+      "poison": 352782
     }
   },
   {
     "timestamp": "2026-03-04T16:00:00.000Z",
     "consumables": {
-      "attack": 177857,
-      "revive": 112403,
-      "xlife": 16157,
-      "poison": 234738
+      "attack": 186382,
+      "revive": 111554,
+      "xlife": 12613,
+      "poison": 350663
     }
   },
   {
     "timestamp": "2026-03-04T17:00:00.000Z",
     "consumables": {
-      "attack": 176108,
-      "revive": 117990,
-      "xlife": 16250,
-      "poison": 232418
+      "attack": 184627,
+      "revive": 117479,
+      "xlife": 12710,
+      "poison": 348383
     }
   },
   {
     "timestamp": "2026-03-04T18:00:00.000Z",
     "consumables": {
-      "attack": 175739,
-      "revive": 116292,
-      "xlife": 16164,
-      "poison": 231332
+      "attack": 184620,
+      "revive": 115900,
+      "xlife": 12624,
+      "poison": 347108
     }
   },
   {
     "timestamp": "2026-03-04T19:00:00.000Z",
     "consumables": {
-      "attack": 175449,
-      "revive": 120332,
-      "xlife": 16162,
-      "poison": 236517
+      "attack": 184180,
+      "revive": 119704,
+      "xlife": 12622,
+      "poison": 352093
     }
   },
   {
     "timestamp": "2026-03-04T20:00:00.000Z",
     "consumables": {
-      "attack": 175448,
-      "revive": 119471,
-      "xlife": 16206,
-      "poison": 236137
+      "attack": 184099,
+      "revive": 118598,
+      "xlife": 12675,
+      "poison": 351723
     }
   },
   {
     "timestamp": "2026-03-04T21:00:00.000Z",
     "consumables": {
-      "attack": 161075,
-      "revive": 118209,
-      "xlife": 16160,
-      "poison": 235931
+      "attack": 172575,
+      "revive": 122654,
+      "xlife": 12618,
+      "poison": 351297
     }
   },
   {
     "timestamp": "2026-03-04T22:00:00.000Z",
     "consumables": {
-      "attack": 160807,
-      "revive": 117258,
-      "xlife": 16143,
-      "poison": 233831
+      "attack": 172217,
+      "revive": 133615,
+      "xlife": 12604,
+      "poison": 359517
     }
   },
   {
     "timestamp": "2026-03-04T23:00:00.000Z",
     "consumables": {
-      "attack": 160686,
-      "revive": 116510,
-      "xlife": 16136,
-      "poison": 232151
+      "attack": 172056,
+      "revive": 137548,
+      "xlife": 12596,
+      "poison": 357887
     }
   },
   {
     "timestamp": "2026-03-05T00:00:00.000Z",
     "consumables": {
-      "attack": 160486,
-      "revive": 114719,
-      "xlife": 15960,
-      "poison": 231926
+      "attack": 171866,
+      "revive": 140767,
+      "xlife": 13422,
+      "poison": 357707
     }
   },
   {
     "timestamp": "2026-03-05T01:00:00.000Z",
     "consumables": {
-      "attack": 160486,
-      "revive": 114591,
-      "xlife": 15960,
-      "poison": 231901
+      "attack": 171820,
+      "revive": 140703,
+      "xlife": 13472,
+      "poison": 357707
     }
   },
   {
     "timestamp": "2026-03-05T02:00:00.000Z",
     "consumables": {
-      "attack": 160468,
-      "revive": 113903,
-      "xlife": 15950,
-      "poison": 231666
+      "attack": 171802,
+      "revive": 140015,
+      "xlife": 13662,
+      "poison": 358497
     }
   },
   {
     "timestamp": "2026-03-05T03:00:00.000Z",
     "consumables": {
-      "attack": 159863,
-      "revive": 110760,
-      "xlife": 15927,
-      "poison": 231314
+      "attack": 171173,
+      "revive": 144966,
+      "xlife": 13659,
+      "poison": 357945
     }
   },
   {
     "timestamp": "2026-03-05T04:00:00.000Z",
     "consumables": {
-      "attack": 159717,
-      "revive": 107342,
-      "xlife": 15918,
-      "poison": 228184
+      "attack": 171021,
+      "revive": 141578,
+      "xlife": 13696,
+      "poison": 355235
     }
   },
   {
     "timestamp": "2026-03-05T05:00:00.000Z",
     "consumables": {
-      "attack": 159703,
-      "revive": 107091,
-      "xlife": 15913,
-      "poison": 227934
+      "attack": 171508,
+      "revive": 146592,
+      "xlife": 13690,
+      "poison": 355035
     }
   },
   {
     "timestamp": "2026-03-05T06:00:00.000Z",
     "consumables": {
-      "attack": 159643,
-      "revive": 105989,
-      "xlife": 15904,
-      "poison": 227704
+      "attack": 171434,
+      "revive": 145566,
+      "xlife": 13679,
+      "poison": 355735
     }
   },
   {
     "timestamp": "2026-03-05T07:00:00.000Z",
     "consumables": {
-      "attack": 159577,
-      "revive": 105662,
-      "xlife": 15897,
-      "poison": 227554
+      "attack": 171403,
+      "revive": 151762,
+      "xlife": 13665,
+      "poison": 355334
     }
   },
   {
     "timestamp": "2026-03-05T08:00:00.000Z",
     "consumables": {
-      "attack": 159545,
-      "revive": 104547,
-      "xlife": 15895,
-      "poison": 226944
+      "attack": 171371,
+      "revive": 150311,
+      "xlife": 13662,
+      "poison": 354664
     }
   },
   {
     "timestamp": "2026-03-05T09:00:00.000Z",
     "consumables": {
-      "attack": 159545,
-      "revive": 104547,
-      "xlife": 15895,
-      "poison": 226944
+      "attack": 171371,
+      "revive": 150311,
+      "xlife": 13662,
+      "poison": 354664
     }
   },
   {
     "timestamp": "2026-03-05T10:00:00.000Z",
     "consumables": {
-      "attack": 159540,
-      "revive": 104291,
-      "xlife": 15895,
-      "poison": 226909
+      "attack": 171371,
+      "revive": 150183,
+      "xlife": 13662,
+      "poison": 354644
     }
   },
   {
     "timestamp": "2026-03-05T11:00:00.000Z",
     "consumables": {
-      "attack": 159498,
-      "revive": 102556,
-      "xlife": 15894,
-      "poison": 225894
+      "attack": 172327,
+      "revive": 148188,
+      "xlife": 13661,
+      "poison": 355608
     }
   },
   {
     "timestamp": "2026-03-05T12:00:00.000Z",
     "consumables": {
-      "attack": 159333,
-      "revive": 99839,
-      "xlife": 15893,
-      "poison": 224539
+      "attack": 172154,
+      "revive": 143836,
+      "xlife": 13660,
+      "poison": 355148
     }
   },
   {
     "timestamp": "2026-03-05T13:00:00.000Z",
     "consumables": {
-      "attack": 156176,
-      "revive": 97334,
-      "xlife": 15842,
-      "poison": 222374
+      "attack": 168836,
+      "revive": 146392,
+      "xlife": 13705,
+      "poison": 352958
     }
   },
   {
     "timestamp": "2026-03-05T14:00:00.000Z",
     "consumables": {
-      "attack": 155419,
-      "revive": 93387,
-      "xlife": 15765,
-      "poison": 219108
+      "attack": 168130,
+      "revive": 142694,
+      "xlife": 13626,
+      "poison": 349718
     }
   },
   {
     "timestamp": "2026-03-05T15:00:00.000Z",
     "consumables": {
-      "attack": 152230,
-      "revive": 90479,
-      "xlife": 15722,
-      "poison": 215951
+      "attack": 163325,
+      "revive": 139529,
+      "xlife": 13575,
+      "poison": 346756
     }
   },
   {
     "timestamp": "2026-03-05T16:00:00.000Z",
     "consumables": {
-      "attack": 152051,
-      "revive": 90071,
-      "xlife": 15705,
-      "poison": 213151
+      "attack": 163121,
+      "revive": 138962,
+      "xlife": 13552,
+      "poison": 343846
     }
   },
   {
     "timestamp": "2026-03-05T17:00:00.000Z",
     "consumables": {
-      "attack": 147623,
-      "revive": 88974,
-      "xlife": 15650,
-      "poison": 212876
+      "attack": 158637,
+      "revive": 137604,
+      "xlife": 13491,
+      "poison": 343486
     }
   },
   {
     "timestamp": "2026-03-05T18:00:00.000Z",
     "consumables": {
-      "attack": 147320,
-      "revive": 88823,
-      "xlife": 15642,
-      "poison": 212866
+      "attack": 158346,
+      "revive": 137453,
+      "xlife": 13484,
+      "poison": 343476
     }
   },
   {
     "timestamp": "2026-03-05T19:00:00.000Z",
     "consumables": {
-      "attack": 146450,
-      "revive": 88406,
-      "xlife": 15610,
-      "poison": 212831
+      "attack": 157476,
+      "revive": 137036,
+      "xlife": 13448,
+      "poison": 343291
     }
   },
   {
     "timestamp": "2026-03-05T20:00:00.000Z",
     "consumables": {
-      "attack": 141417,
-      "revive": 86867,
-      "xlife": 15570,
-      "poison": 211002
+      "attack": 152839,
+      "revive": 135661,
+      "xlife": 13410,
+      "poison": 341272
     }
   },
   {
     "timestamp": "2026-03-05T21:00:00.000Z",
     "consumables": {
-      "attack": 134137,
-      "revive": 82247,
-      "xlife": 15410,
-      "poison": 210597
+      "attack": 143642,
+      "revive": 130207,
+      "xlife": 13261,
+      "poison": 340972
     }
   },
   {
     "timestamp": "2026-03-05T22:00:00.000Z",
     "consumables": {
-      "attack": 128041,
-      "revive": 83020,
-      "xlife": 15447,
-      "poison": 229575
+      "attack": 136403,
+      "revive": 125810,
+      "xlife": 13162,
+      "poison": 340902
     }
   },
   {
     "timestamp": "2026-03-05T23:00:00.000Z",
     "consumables": {
-      "attack": 127613,
-      "revive": 92270,
-      "xlife": 16378,
-      "poison": 227920
+      "attack": 135849,
+      "revive": 122265,
+      "xlife": 13093,
+      "poison": 339097
     }
   },
   {
     "timestamp": "2026-03-06T00:00:00.000Z",
     "consumables": {
-      "attack": 127357,
-      "revive": 89858,
-      "xlife": 16366,
-      "poison": 226470
+      "attack": 135650,
+      "revive": 119705,
+      "xlife": 13083,
+      "poison": 337597
     }
   },
   {
     "timestamp": "2026-03-06T01:00:00.000Z",
     "consumables": {
-      "attack": 127403,
-      "revive": 90281,
-      "xlife": 16340,
-      "poison": 225800
+      "attack": 135604,
+      "revive": 119114,
+      "xlife": 13056,
+      "poison": 336877
     }
   },
   {
     "timestamp": "2026-03-06T02:00:00.000Z",
     "consumables": {
-      "attack": 127290,
-      "revive": 88842,
-      "xlife": 16309,
-      "poison": 234620
+      "attack": 135438,
+      "revive": 117011,
+      "xlife": 13027,
+      "poison": 331397
     }
   },
   {
     "timestamp": "2026-03-06T03:00:00.000Z",
     "consumables": {
-      "attack": 127252,
-      "revive": 87465,
-      "xlife": 16348,
-      "poison": 231090
+      "attack": 135378,
+      "revive": 115632,
+      "xlife": 12915,
+      "poison": 328377
     }
   },
   {
     "timestamp": "2026-03-06T04:00:00.000Z",
     "consumables": {
-      "attack": 127182,
-      "revive": 91823,
-      "xlife": 16459,
-      "poison": 229611
+      "attack": 135308,
+      "revive": 114825,
+      "xlife": 12773,
+      "poison": 326513
     }
   },
   {
     "timestamp": "2026-03-06T05:00:00.000Z",
     "consumables": {
-      "attack": 127182,
-      "revive": 98648,
-      "xlife": 16609,
-      "poison": 227961
+      "attack": 135308,
+      "revive": 114663,
+      "xlife": 12773,
+      "poison": 324963
     }
   },
   {
     "timestamp": "2026-03-06T06:00:00.000Z",
     "consumables": {
-      "attack": 126972,
-      "revive": 97216,
-      "xlife": 16596,
-      "poison": 224926
+      "attack": 135161,
+      "revive": 113293,
+      "xlife": 12760,
+      "poison": 321883
     }
   },
   {
     "timestamp": "2026-03-06T07:00:00.000Z",
     "consumables": {
-      "attack": 126719,
-      "revive": 106502,
-      "xlife": 16578,
-      "poison": 234756
+      "attack": 134915,
+      "revive": 112030,
+      "xlife": 12742,
+      "poison": 320663
     }
   },
   {
     "timestamp": "2026-03-06T08:00:00.000Z",
     "consumables": {
-      "attack": 126719,
-      "revive": 106310,
-      "xlife": 16576,
-      "poison": 234706
+      "attack": 134915,
+      "revive": 111790,
+      "xlife": 12739,
+      "poison": 320513
     }
   },
   {
     "timestamp": "2026-03-06T09:00:00.000Z",
     "consumables": {
-      "attack": 126691,
-      "revive": 110995,
-      "xlife": 16565,
-      "poison": 235196
+      "attack": 134907,
+      "revive": 111224,
+      "xlife": 12729,
+      "poison": 319603
     }
   },
   {
     "timestamp": "2026-03-06T10:00:00.000Z",
     "consumables": {
-      "attack": 131483,
-      "revive": 110368,
-      "xlife": 16555,
-      "poison": 234319
+      "attack": 133942,
+      "revive": 110382,
+      "xlife": 12719,
+      "poison": 318436
     }
   },
   {
     "timestamp": "2026-03-06T11:00:00.000Z",
     "consumables": {
-      "attack": 132199,
-      "revive": 110016,
-      "xlife": 16536,
-      "poison": 255496
+      "attack": 133576,
+      "revive": 108856,
+      "xlife": 12706,
+      "poison": 337931
     }
   },
   {
     "timestamp": "2026-03-06T12:00:00.000Z",
     "consumables": {
-      "attack": 131869,
-      "revive": 114461,
-      "xlife": 16503,
-      "poison": 252321
+      "attack": 133256,
+      "revive": 112992,
+      "xlife": 12670,
+      "poison": 334306
     }
   },
   {
     "timestamp": "2026-03-06T13:00:00.000Z",
     "consumables": {
-      "attack": 144372,
-      "revive": 113607,
-      "xlife": 16471,
-      "poison": 270771
+      "attack": 145820,
+      "revive": 112194,
+      "xlife": 12639,
+      "poison": 352996
     }
   },
   {
     "timestamp": "2026-03-06T14:00:00.000Z",
     "consumables": {
-      "attack": 137532,
-      "revive": 118583,
-      "xlife": 17460,
-      "poison": 267603
+      "attack": 139493,
+      "revive": 117471,
+      "xlife": 13626,
+      "poison": 349528
     }
   },
   {
     "timestamp": "2026-03-06T15:00:00.000Z",
     "consumables": {
-      "attack": 132296,
-      "revive": 122044,
-      "xlife": 18344,
-      "poison": 274584
+      "attack": 134954,
+      "revive": 122340,
+      "xlife": 14547,
+      "poison": 358118
     }
   },
   {
     "timestamp": "2026-03-06T16:00:00.000Z",
     "consumables": {
-      "attack": 131599,
-      "revive": 121012,
-      "xlife": 18324,
-      "poison": 273459
+      "attack": 134286,
+      "revive": 121470,
+      "xlife": 14527,
+      "poison": 356908
     }
   },
   {
     "timestamp": "2026-03-06T17:00:00.000Z",
     "consumables": {
-      "attack": 134490,
-      "revive": 122935,
-      "xlife": 18282,
-      "poison": 273174
+      "attack": 138465,
+      "revive": 123351,
+      "xlife": 14485,
+      "poison": 356593
     }
   },
   {
     "timestamp": "2026-03-06T18:00:00.000Z",
     "consumables": {
-      "attack": 134326,
-      "revive": 122462,
-      "xlife": 18265,
-      "poison": 273119
+      "attack": 138268,
+      "revive": 122642,
+      "xlife": 14465,
+      "poison": 356538
     }
   },
   {
     "timestamp": "2026-03-06T19:00:00.000Z",
     "consumables": {
-      "attack": 134233,
-      "revive": 122252,
-      "xlife": 18458,
-      "poison": 271034
+      "attack": 138213,
+      "revive": 122449,
+      "xlife": 14656,
+      "poison": 354743
     }
   },
   {
     "timestamp": "2026-03-06T20:00:00.000Z",
     "consumables": {
-      "attack": 133780,
-      "revive": 136839,
-      "xlife": 18496,
-      "poison": 267209
+      "attack": 137758,
+      "revive": 136973,
+      "xlife": 14652,
+      "poison": 349283
     }
   },
   {
     "timestamp": "2026-03-06T21:00:00.000Z",
     "consumables": {
-      "attack": 133544,
-      "revive": 136334,
-      "xlife": 18483,
-      "poison": 267199
+      "attack": 137549,
+      "revive": 136077,
+      "xlife": 14625,
+      "poison": 349063
     }
   },
   {
     "timestamp": "2026-03-06T22:00:00.000Z",
     "consumables": {
-      "attack": 135411,
-      "revive": 141451,
-      "xlife": 18867,
-      "poison": 302072
+      "attack": 139325,
+      "revive": 141163,
+      "xlife": 15009,
+      "poison": 384746
     }
   },
   {
     "timestamp": "2026-03-06T23:00:00.000Z",
     "consumables": {
-      "attack": 152232,
-      "revive": 144991,
-      "xlife": 19079,
-      "poison": 300387
+      "attack": 155206,
+      "revive": 144428,
+      "xlife": 15166,
+      "poison": 381251
     }
   },
   {
     "timestamp": "2026-03-07T00:00:00.000Z",
     "consumables": {
-      "attack": 152332,
-      "revive": 145091,
-      "xlife": 19099,
-      "poison": 300487
+      "attack": 155306,
+      "revive": 144528,
+      "xlife": 15186,
+      "poison": 381351
     }
   },
   {
     "timestamp": "2026-03-07T01:00:00.000Z",
     "consumables": {
-      "attack": 151896,
-      "revive": 144479,
-      "xlife": 19096,
-      "poison": 300977
+      "attack": 154188,
+      "revive": 143878,
+      "xlife": 15184,
+      "poison": 381926
     }
   },
   {
     "timestamp": "2026-03-07T02:00:00.000Z",
     "consumables": {
-      "attack": 151921,
-      "revive": 154684,
-      "xlife": 19093,
-      "poison": 298977
+      "attack": 154213,
+      "revive": 154103,
+      "xlife": 15162,
+      "poison": 379991
     }
   },
   {
     "timestamp": "2026-03-07T03:00:00.000Z",
     "consumables": {
-      "attack": 248909,
-      "revive": 152524,
-      "xlife": 18752,
-      "poison": 298755
+      "attack": 250762,
+      "revive": 152639,
+      "xlife": 15551,
+      "poison": 379928
     }
   },
   {
     "timestamp": "2026-03-07T04:00:00.000Z",
     "consumables": {
-      "attack": 248909,
-      "revive": 151626,
-      "xlife": 18750,
-      "poison": 298200
+      "attack": 250762,
+      "revive": 154563,
+      "xlife": 15549,
+      "poison": 379723
     }
   },
   {
     "timestamp": "2026-03-07T05:00:00.000Z",
     "consumables": {
-      "attack": 248909,
-      "revive": 151626,
-      "xlife": 18750,
-      "poison": 298200
+      "attack": 250762,
+      "revive": 154563,
+      "xlife": 15549,
+      "poison": 379723
     }
   },
   {
     "timestamp": "2026-03-07T06:00:00.000Z",
     "consumables": {
-      "attack": 248722,
-      "revive": 151304,
-      "xlife": 18750,
-      "poison": 298138
+      "attack": 250698,
+      "revive": 154435,
+      "xlife": 15549,
+      "poison": 379697
     }
   },
   {
     "timestamp": "2026-03-07T07:00:00.000Z",
     "consumables": {
-      "attack": 248608,
-      "revive": 150245,
-      "xlife": 18739,
-      "poison": 297860
+      "attack": 250592,
+      "revive": 153433,
+      "xlife": 15538,
+      "poison": 380418
     }
   },
   {
     "timestamp": "2026-03-07T08:00:00.000Z",
     "consumables": {
-      "attack": 248410,
-      "revive": 149548,
-      "xlife": 18739,
-      "poison": 297619
+      "attack": 250368,
+      "revive": 152556,
+      "xlife": 15533,
+      "poison": 380171
     }
   },
   {
     "timestamp": "2026-03-07T09:00:00.000Z",
     "consumables": {
-      "attack": 248175,
-      "revive": 148191,
-      "xlife": 18714,
-      "poison": 295891
+      "attack": 251953,
+      "revive": 153175,
+      "xlife": 15908,
+      "poison": 382049
     }
   },
   {
     "timestamp": "2026-03-07T10:00:00.000Z",
     "consumables": {
-      "attack": 248175,
-      "revive": 148191,
-      "xlife": 18714,
-      "poison": 295891
+      "attack": 251953,
+      "revive": 153175,
+      "xlife": 15918,
+      "poison": 392049
     }
   },
   {
     "timestamp": "2026-03-07T11:00:00.000Z",
     "consumables": {
-      "attack": 247091,
-      "revive": 147321,
-      "xlife": 18448,
-      "poison": 295011
+      "attack": 251951,
+      "revive": 158841,
+      "xlife": 16641,
+      "poison": 396199
     }
   },
   {
     "timestamp": "2026-03-07T12:00:00.000Z",
     "consumables": {
-      "attack": 239680,
-      "revive": 142926,
-      "xlife": 18378,
-      "poison": 294217
+      "attack": 246721,
+      "revive": 161068,
+      "xlife": 16492,
+      "poison": 395043
     }
   },
   {
     "timestamp": "2026-03-07T13:00:00.000Z",
     "consumables": {
-      "attack": 239164,
-      "revive": 142422,
-      "xlife": 18378,
-      "poison": 294217
+      "attack": 247247,
+      "revive": 163231,
+      "xlife": 16979,
+      "poison": 403843
     }
   },
   {
     "timestamp": "2026-03-07T14:00:00.000Z",
     "consumables": {
-      "attack": 237831,
-      "revive": 141692,
-      "xlife": 18329,
-      "poison": 293775
+      "attack": 257032,
+      "revive": 163354,
+      "xlife": 17430,
+      "poison": 404400
     }
   },
   {
     "timestamp": "2026-03-07T15:00:00.000Z",
     "consumables": {
-      "attack": 235522,
-      "revive": 140213,
-      "xlife": 18279,
-      "poison": 292903
+      "attack": 269879,
+      "revive": 163035,
+      "xlife": 17374,
+      "poison": 403673
     }
   },
   {
     "timestamp": "2026-03-07T16:00:00.000Z",
     "consumables": {
-      "attack": 225232,
-      "revive": 134878,
-      "xlife": 17769,
-      "poison": 290309
+      "attack": 258725,
+      "revive": 156243,
+      "xlife": 17124,
+      "poison": 400643
     }
   },
   {
     "timestamp": "2026-03-07T17:00:00.000Z",
     "consumables": {
-      "attack": 210637,
-      "revive": 124851,
-      "xlife": 17437,
-      "poison": 287369
+      "attack": 242868,
+      "revive": 147912,
+      "xlife": 16739,
+      "poison": 398098
     }
   },
   {
     "timestamp": "2026-03-07T18:00:00.000Z",
     "consumables": {
-      "attack": 203601,
-      "revive": 120745,
-      "xlife": 17241,
-      "poison": 283574
+      "attack": 236124,
+      "revive": 143601,
+      "xlife": 16553,
+      "poison": 394583
     }
   },
   {
     "timestamp": "2026-03-07T19:00:00.000Z",
     "consumables": {
-      "attack": 199593,
-      "revive": 116928,
-      "xlife": 17169,
-      "poison": 283164
+      "attack": 232156,
+      "revive": 139765,
+      "xlife": 16484,
+      "poison": 394104
     }
   },
   {
     "timestamp": "2026-03-07T20:00:00.000Z",
     "consumables": {
-      "attack": 193789,
-      "revive": 104836,
-      "xlife": 16947,
-      "poison": 280362
+      "attack": 225820,
+      "revive": 126642,
+      "xlife": 16260,
+      "poison": 390874
     }
   },
   {
     "timestamp": "2026-03-07T21:00:00.000Z",
     "consumables": {
-      "attack": 191547,
-      "revive": 96613,
-      "xlife": 16875,
-      "poison": 278280
+      "attack": 223779,
+      "revive": 118974,
+      "xlife": 16172,
+      "poison": 388910
     }
   },
   {
     "timestamp": "2026-03-07T22:00:00.000Z",
     "consumables": {
-      "attack": 186948,
-      "revive": 87051,
-      "xlife": 16755,
-      "poison": 274983
+      "attack": 219119,
+      "revive": 109522,
+      "xlife": 16054,
+      "poison": 385786
     }
   },
   {
     "timestamp": "2026-03-07T23:00:00.000Z",
     "consumables": {
-      "attack": 222807,
-      "revive": 99126,
-      "xlife": 16580,
-      "poison": 288163
+      "attack": 215445,
+      "revive": 105809,
+      "xlife": 15650,
+      "poison": 378121
     }
   },
   {
     "timestamp": "2026-03-08T00:00:00.000Z",
     "consumables": {
-      "attack": 220782,
-      "revive": 100340,
-      "xlife": 16620,
-      "poison": 288138
+      "attack": 213341,
+      "revive": 105031,
+      "xlife": 15642,
+      "poison": 377996
     }
   },
   {
     "timestamp": "2026-03-08T01:00:00.000Z",
     "consumables": {
-      "attack": 219018,
-      "revive": 100330,
-      "xlife": 16611,
-      "poison": 288113
+      "attack": 211569,
+      "revive": 104746,
+      "xlife": 15603,
+      "poison": 377921
     }
   },
   {
     "timestamp": "2026-03-08T02:00:00.000Z",
     "consumables": {
-      "attack": 217412,
-      "revive": 100080,
-      "xlife": 16607,
-      "poison": 287913
+      "attack": 210015,
+      "revive": 104401,
+      "xlife": 15599,
+      "poison": 377821
     }
   },
   {
     "timestamp": "2026-03-08T03:00:00.000Z",
     "consumables": {
-      "attack": 222295,
-      "revive": 112193,
-      "xlife": 16660,
-      "poison": 287913
+      "attack": 214784,
+      "revive": 116213,
+      "xlife": 15585,
+      "poison": 377816
     }
   },
   {
     "timestamp": "2026-03-08T04:00:00.000Z",
     "consumables": {
-      "attack": 231498,
-      "revive": 111866,
-      "xlife": 17580,
-      "poison": 287503
+      "attack": 223837,
+      "revive": 115594,
+      "xlife": 16490,
+      "poison": 377096
     }
   },
   {
     "timestamp": "2026-03-08T05:00:00.000Z",
     "consumables": {
-      "attack": 240828,
-      "revive": 111410,
-      "xlife": 17339,
-      "poison": 287380
+      "attack": 233351,
+      "revive": 115427,
+      "xlife": 16477,
+      "poison": 376974
     }
   },
   {
     "timestamp": "2026-03-08T06:00:00.000Z",
     "consumables": {
-      "attack": 237318,
-      "revive": 108147,
-      "xlife": 17249,
-      "poison": 282611
+      "attack": 229634,
+      "revive": 111891,
+      "xlife": 16380,
+      "poison": 371926
     }
   },
   {
     "timestamp": "2026-03-08T07:00:00.000Z",
     "consumables": {
-      "attack": 233368,
-      "revive": 104067,
-      "xlife": 17177,
-      "poison": 280496
+      "attack": 226767,
+      "revive": 108392,
+      "xlife": 16319,
+      "poison": 369901
     }
   },
   {
     "timestamp": "2026-03-08T08:00:00.000Z",
     "consumables": {
-      "attack": 233364,
-      "revive": 103117,
-      "xlife": 17157,
-      "poison": 279526
+      "attack": 226765,
+      "revive": 107740,
+      "xlife": 16281,
+      "poison": 368981
     }
   },
   {
     "timestamp": "2026-03-08T09:00:00.000Z",
     "consumables": {
-      "attack": 234080,
-      "revive": 111391,
-      "xlife": 17248,
-      "poison": 280556
+      "attack": 227543,
+      "revive": 116012,
+      "xlife": 16375,
+      "poison": 370086
     }
   },
   {
     "timestamp": "2026-03-08T10:00:00.000Z",
     "consumables": {
-      "attack": 234080,
-      "revive": 113820,
-      "xlife": 17210,
-      "poison": 280306
+      "attack": 227543,
+      "revive": 118512,
+      "xlife": 16370,
+      "poison": 370086
     }
   },
   {
     "timestamp": "2026-03-08T11:00:00.000Z",
     "consumables": {
-      "attack": 231699,
-      "revive": 112386,
-      "xlife": 17200,
-      "poison": 278424
+      "attack": 225177,
+      "revive": 116933,
+      "xlife": 16350,
+      "poison": 369011
     }
   },
   {
     "timestamp": "2026-03-08T12:00:00.000Z",
     "consumables": {
-      "attack": 236299,
-      "revive": 110687,
-      "xlife": 17215,
-      "poison": 302857
+      "attack": 229326,
+      "revive": 114981,
+      "xlife": 16363,
+      "poison": 393059
     }
   },
   {
     "timestamp": "2026-03-08T13:00:00.000Z",
     "consumables": {
-      "attack": 237114,
-      "revive": 117166,
-      "xlife": 17160,
-      "poison": 304032
+      "attack": 229890,
+      "revive": 120869,
+      "xlife": 16280,
+      "poison": 393798
     }
   },
   {
     "timestamp": "2026-03-08T14:00:00.000Z",
     "consumables": {
-      "attack": 235005,
-      "revive": 116245,
-      "xlife": 17181,
-      "poison": 313467
+      "attack": 226936,
+      "revive": 119724,
+      "xlife": 16275,
+      "poison": 402598
     }
   },
   {
     "timestamp": "2026-03-08T15:00:00.000Z",
     "consumables": {
-      "attack": 234196,
-      "revive": 116181,
-      "xlife": 17192,
-      "poison": 311967
+      "attack": 226312,
+      "revive": 120006,
+      "xlife": 16302,
+      "poison": 401188
     }
   },
   {
     "timestamp": "2026-03-08T16:00:00.000Z",
     "consumables": {
-      "attack": 246196,
-      "revive": 117580,
-      "xlife": 17191,
-      "poison": 316762
+      "attack": 237765,
+      "revive": 121366,
+      "xlife": 16298,
+      "poison": 405983
     }
   },
   {
     "timestamp": "2026-03-08T17:00:00.000Z",
     "consumables": {
-      "attack": 244561,
-      "revive": 117011,
-      "xlife": 17217,
-      "poison": 316762
+      "attack": 235938,
+      "revive": 120811,
+      "xlife": 16324,
+      "poison": 405983
     }
   },
   {
     "timestamp": "2026-03-08T18:00:00.000Z",
     "consumables": {
-      "attack": 243521,
-      "revive": 116430,
-      "xlife": 17214,
-      "poison": 315672
+      "attack": 234971,
+      "revive": 120393,
+      "xlife": 16330,
+      "poison": 405113
     }
   },
   {
     "timestamp": "2026-03-08T19:00:00.000Z",
     "consumables": {
-      "attack": 250204,
-      "revive": 115114,
-      "xlife": 17179,
-      "poison": 321272
+      "attack": 242294,
+      "revive": 119446,
+      "xlife": 16335,
+      "poison": 412013
     }
   },
   {
-    "timestamp": "2026-03-08T19:46:45.959Z",
+    "timestamp": "2026-03-08T20:00:00.000Z",
     "consumables": {
-      "attack": 246851,
-      "revive": 113425,
-      "xlife": 17129,
-      "poison": 320834
+      "attack": 238499,
+      "revive": 117616,
+      "xlife": 16293,
+      "poison": 411539
+    }
+  },
+  {
+    "timestamp": "2026-03-08T21:00:00.000Z",
+    "consumables": {
+      "attack": 240169,
+      "revive": 119192,
+      "xlife": 16371,
+      "poison": 411231
+    }
+  },
+  {
+    "timestamp": "2026-03-08T22:00:00.000Z",
+    "consumables": {
+      "attack": 250455,
+      "revive": 119730,
+      "xlife": 16603,
+      "poison": 431430
+    }
+  },
+  {
+    "timestamp": "2026-03-08T23:00:00.000Z",
+    "consumables": {
+      "attack": 246423,
+      "revive": 115373,
+      "xlife": 16361,
+      "poison": 427962
+    }
+  },
+  {
+    "timestamp": "2026-03-09T00:00:00.000Z",
+    "consumables": {
+      "attack": 240720,
+      "revive": 110418,
+      "xlife": 16275,
+      "poison": 427604
+    }
+  },
+  {
+    "timestamp": "2026-03-09T01:00:00.000Z",
+    "consumables": {
+      "attack": 235634,
+      "revive": 107256,
+      "xlife": 16211,
+      "poison": 427117
+    }
+  },
+  {
+    "timestamp": "2026-03-09T02:00:00.000Z",
+    "consumables": {
+      "attack": 233007,
+      "revive": 105102,
+      "xlife": 16140,
+      "poison": 426579
+    }
+  },
+  {
+    "timestamp": "2026-03-09T03:00:00.000Z",
+    "consumables": {
+      "attack": 227209,
+      "revive": 102073,
+      "xlife": 15992,
+      "poison": 425292
+    }
+  },
+  {
+    "timestamp": "2026-03-09T04:00:00.000Z",
+    "consumables": {
+      "attack": 225553,
+      "revive": 99005,
+      "xlife": 15772,
+      "poison": 423515
+    }
+  },
+  {
+    "timestamp": "2026-03-09T05:00:00.000Z",
+    "consumables": {
+      "attack": 224055,
+      "revive": 96320,
+      "xlife": 15583,
+      "poison": 422111
+    }
+  },
+  {
+    "timestamp": "2026-03-09T06:00:00.000Z",
+    "consumables": {
+      "attack": 221567,
+      "revive": 93137,
+      "xlife": 15488,
+      "poison": 420066
+    }
+  },
+  {
+    "timestamp": "2026-03-09T07:00:00.000Z",
+    "consumables": {
+      "attack": 220932,
+      "revive": 91926,
+      "xlife": 15484,
+      "poison": 419966
+    }
+  },
+  {
+    "timestamp": "2026-03-09T08:00:00.000Z",
+    "consumables": {
+      "attack": 219813,
+      "revive": 90214,
+      "xlife": 15463,
+      "poison": 418930
+    }
+  },
+  {
+    "timestamp": "2026-03-09T09:00:00.000Z",
+    "consumables": {
+      "attack": 219380,
+      "revive": 89798,
+      "xlife": 15503,
+      "poison": 419082
+    }
+  },
+  {
+    "timestamp": "2026-03-09T10:00:00.000Z",
+    "consumables": {
+      "attack": 219002,
+      "revive": 90515,
+      "xlife": 15416,
+      "poison": 417882
+    }
+  },
+  {
+    "timestamp": "2026-03-09T11:00:00.000Z",
+    "consumables": {
+      "attack": 218903,
+      "revive": 90343,
+      "xlife": 15437,
+      "poison": 417582
+    }
+  },
+  {
+    "timestamp": "2026-03-09T12:00:00.000Z",
+    "consumables": {
+      "attack": 218687,
+      "revive": 90263,
+      "xlife": 15449,
+      "poison": 417572
+    }
+  },
+  {
+    "timestamp": "2026-03-09T13:00:00.000Z",
+    "consumables": {
+      "attack": 218922,
+      "revive": 89953,
+      "xlife": 15368,
+      "poison": 416402
+    }
+  },
+  {
+    "timestamp": "2026-03-09T14:00:00.000Z",
+    "consumables": {
+      "attack": 217788,
+      "revive": 89863,
+      "xlife": 15359,
+      "poison": 413783
+    }
+  },
+  {
+    "timestamp": "2026-03-09T15:00:00.000Z",
+    "consumables": {
+      "attack": 216328,
+      "revive": 89241,
+      "xlife": 15329,
+      "poison": 423618
+    }
+  },
+  {
+    "timestamp": "2026-03-09T16:00:00.000Z",
+    "consumables": {
+      "attack": 215458,
+      "revive": 94789,
+      "xlife": 15186,
+      "poison": 418786
+    }
+  },
+  {
+    "timestamp": "2026-03-09T17:00:00.000Z",
+    "consumables": {
+      "attack": 213880,
+      "revive": 96615,
+      "xlife": 15248,
+      "poison": 415041
+    }
+  },
+  {
+    "timestamp": "2026-03-09T18:00:00.000Z",
+    "consumables": {
+      "attack": 214878,
+      "revive": 98124,
+      "xlife": 15235,
+      "poison": 415960
+    }
+  },
+  {
+    "timestamp": "2026-03-09T19:00:00.000Z",
+    "consumables": {
+      "attack": 214207,
+      "revive": 97669,
+      "xlife": 15224,
+      "poison": 415760
+    }
+  },
+  {
+    "timestamp": "2026-03-09T20:00:00.000Z",
+    "consumables": {
+      "attack": 217905,
+      "revive": 97377,
+      "xlife": 15201,
+      "poison": 414164
+    }
+  },
+  {
+    "timestamp": "2026-03-09T21:00:00.000Z",
+    "consumables": {
+      "attack": 237702,
+      "revive": 107843,
+      "xlife": 16229,
+      "poison": 422849
+    }
+  },
+  {
+    "timestamp": "2026-03-09T22:00:00.000Z",
+    "consumables": {
+      "attack": 233873,
+      "revive": 111670,
+      "xlife": 15895,
+      "poison": 429612
+    }
+  },
+  {
+    "timestamp": "2026-03-09T23:00:00.000Z",
+    "consumables": {
+      "attack": 242586,
+      "revive": 109538,
+      "xlife": 15984,
+      "poison": 438150
+    }
+  },
+  {
+    "timestamp": "2026-03-10T00:00:00.000Z",
+    "consumables": {
+      "attack": 242401,
+      "revive": 108708,
+      "xlife": 15948,
+      "poison": 437480
+    }
+  },
+  {
+    "timestamp": "2026-03-10T01:00:00.000Z",
+    "consumables": {
+      "attack": 242965,
+      "revive": 107707,
+      "xlife": 15905,
+      "poison": 435850
+    }
+  },
+  {
+    "timestamp": "2026-03-10T02:00:00.000Z",
+    "consumables": {
+      "attack": 242905,
+      "revive": 113397,
+      "xlife": 16122,
+      "poison": 434480
+    }
+  },
+  {
+    "timestamp": "2026-03-10T03:00:00.000Z",
+    "consumables": {
+      "attack": 242599,
+      "revive": 117888,
+      "xlife": 16004,
+      "poison": 432560
+    }
+  },
+  {
+    "timestamp": "2026-03-10T04:00:00.000Z",
+    "consumables": {
+      "attack": 239636,
+      "revive": 117252,
+      "xlife": 16076,
+      "poison": 431310
+    }
+  },
+  {
+    "timestamp": "2026-03-10T05:00:00.000Z",
+    "consumables": {
+      "attack": 263067,
+      "revive": 116490,
+      "xlife": 16076,
+      "poison": 431310
+    }
+  },
+  {
+    "timestamp": "2026-03-10T06:00:00.000Z",
+    "consumables": {
+      "attack": 261064,
+      "revive": 115183,
+      "xlife": 16076,
+      "poison": 431310
+    }
+  },
+  {
+    "timestamp": "2026-03-10T07:00:00.000Z",
+    "consumables": {
+      "attack": 260130,
+      "revive": 115035,
+      "xlife": 16074,
+      "poison": 431310
+    }
+  },
+  {
+    "timestamp": "2026-03-10T08:00:00.000Z",
+    "consumables": {
+      "attack": 259339,
+      "revive": 114885,
+      "xlife": 16010,
+      "poison": 431310
+    }
+  },
+  {
+    "timestamp": "2026-03-10T09:00:00.000Z",
+    "consumables": {
+      "attack": 259128,
+      "revive": 115686,
+      "xlife": 16072,
+      "poison": 430310
+    }
+  },
+  {
+    "timestamp": "2026-03-10T10:00:00.000Z",
+    "consumables": {
+      "attack": 259086,
+      "revive": 114965,
+      "xlife": 16183,
+      "poison": 428810
+    }
+  },
+  {
+    "timestamp": "2026-03-10T11:00:00.000Z",
+    "consumables": {
+      "attack": 258713,
+      "revive": 113897,
+      "xlife": 16272,
+      "poison": 424207
+    }
+  },
+  {
+    "timestamp": "2026-03-10T12:00:00.000Z",
+    "consumables": {
+      "attack": 259518,
+      "revive": 115042,
+      "xlife": 16237,
+      "poison": 424807
+    }
+  },
+  {
+    "timestamp": "2026-03-10T13:00:00.000Z",
+    "consumables": {
+      "attack": 256253,
+      "revive": 114977,
+      "xlife": 16911,
+      "poison": 420407
+    }
+  },
+  {
+    "timestamp": "2026-03-10T14:00:00.000Z",
+    "consumables": {
+      "attack": 255811,
+      "revive": 113208,
+      "xlife": 16892,
+      "poison": 418707
+    }
+  },
+  {
+    "timestamp": "2026-03-10T15:00:00.000Z",
+    "consumables": {
+      "attack": 255064,
+      "revive": 112107,
+      "xlife": 16887,
+      "poison": 416136
+    }
+  },
+  {
+    "timestamp": "2026-03-10T16:00:00.000Z",
+    "consumables": {
+      "attack": 254702,
+      "revive": 110850,
+      "xlife": 16875,
+      "poison": 415261
+    }
+  },
+  {
+    "timestamp": "2026-03-10T17:00:00.000Z",
+    "consumables": {
+      "attack": 252397,
+      "revive": 107820,
+      "xlife": 16862,
+      "poison": 414601
+    }
+  },
+  {
+    "timestamp": "2026-03-10T18:00:00.000Z",
+    "consumables": {
+      "attack": 251978,
+      "revive": 107140,
+      "xlife": 16862,
+      "poison": 414076
+    }
+  },
+  {
+    "timestamp": "2026-03-10T19:00:00.000Z",
+    "consumables": {
+      "attack": 251580,
+      "revive": 106758,
+      "xlife": 16777,
+      "poison": 412701
+    }
+  },
+  {
+    "timestamp": "2026-03-10T20:00:00.000Z",
+    "consumables": {
+      "attack": 251025,
+      "revive": 106230,
+      "xlife": 16701,
+      "poison": 409741
+    }
+  },
+  {
+    "timestamp": "2026-03-10T21:00:00.000Z",
+    "consumables": {
+      "attack": 250868,
+      "revive": 105564,
+      "xlife": 16625,
+      "poison": 408628
+    }
+  },
+  {
+    "timestamp": "2026-03-10T22:00:00.000Z",
+    "consumables": {
+      "attack": 250770,
+      "revive": 104429,
+      "xlife": 16590,
+      "poison": 404493
+    }
+  },
+  {
+    "timestamp": "2026-03-10T23:00:00.000Z",
+    "consumables": {
+      "attack": 250493,
+      "revive": 104130,
+      "xlife": 16577,
+      "poison": 403918
+    }
+  },
+  {
+    "timestamp": "2026-03-11T00:00:00.000Z",
+    "consumables": {
+      "attack": 249471,
+      "revive": 103084,
+      "xlife": 16531,
+      "poison": 401748
+    }
+  },
+  {
+    "timestamp": "2026-03-11T01:00:00.000Z",
+    "consumables": {
+      "attack": 249075,
+      "revive": 102606,
+      "xlife": 16511,
+      "poison": 401523
+    }
+  },
+  {
+    "timestamp": "2026-03-11T02:00:00.000Z",
+    "consumables": {
+      "attack": 243839,
+      "revive": 100545,
+      "xlife": 16187,
+      "poison": 400694
+    }
+  },
+  {
+    "timestamp": "2026-03-11T03:00:00.000Z",
+    "consumables": {
+      "attack": 243115,
+      "revive": 99890,
+      "xlife": 16123,
+      "poison": 400109
+    }
+  },
+  {
+    "timestamp": "2026-03-11T04:00:00.000Z",
+    "consumables": {
+      "attack": 243037,
+      "revive": 99731,
+      "xlife": 16117,
+      "poison": 400019
+    }
+  },
+  {
+    "timestamp": "2026-03-11T05:00:00.000Z",
+    "consumables": {
+      "attack": 242766,
+      "revive": 99621,
+      "xlife": 16117,
+      "poison": 400019
+    }
+  },
+  {
+    "timestamp": "2026-03-11T06:00:00.000Z",
+    "consumables": {
+      "attack": 242714,
+      "revive": 99571,
+      "xlife": 16117,
+      "poison": 400019
+    }
+  },
+  {
+    "timestamp": "2026-03-11T07:00:00.000Z",
+    "consumables": {
+      "attack": 242529,
+      "revive": 99140,
+      "xlife": 16107,
+      "poison": 399634
+    }
+  },
+  {
+    "timestamp": "2026-03-11T08:00:00.000Z",
+    "consumables": {
+      "attack": 242112,
+      "revive": 99129,
+      "xlife": 16070,
+      "poison": 399354
+    }
+  },
+  {
+    "timestamp": "2026-03-11T09:00:00.000Z",
+    "consumables": {
+      "attack": 241749,
+      "revive": 97127,
+      "xlife": 15999,
+      "poison": 398184
+    }
+  },
+  {
+    "timestamp": "2026-03-11T10:00:00.000Z",
+    "consumables": {
+      "attack": 241439,
+      "revive": 96150,
+      "xlife": 15962,
+      "poison": 398114
+    }
+  },
+  {
+    "timestamp": "2026-03-11T11:00:00.000Z",
+    "consumables": {
+      "attack": 241110,
+      "revive": 95496,
+      "xlife": 15864,
+      "poison": 398107
+    }
+  },
+  {
+    "timestamp": "2026-03-11T12:00:00.000Z",
+    "consumables": {
+      "attack": 240668,
+      "revive": 94406,
+      "xlife": 15837,
+      "poison": 397231
+    }
+  },
+  {
+    "timestamp": "2026-03-11T13:00:00.000Z",
+    "consumables": {
+      "attack": 237319,
+      "revive": 90213,
+      "xlife": 15350,
+      "poison": 395694
+    }
+  },
+  {
+    "timestamp": "2026-03-11T14:00:00.000Z",
+    "consumables": {
+      "attack": 236398,
+      "revive": 88085,
+      "xlife": 15320,
+      "poison": 395065
+    }
+  },
+  {
+    "timestamp": "2026-03-11T15:00:00.000Z",
+    "consumables": {
+      "attack": 235359,
+      "revive": 86981,
+      "xlife": 15219,
+      "poison": 392750
+    }
+  },
+  {
+    "timestamp": "2026-03-11T16:00:00.000Z",
+    "consumables": {
+      "attack": 234057,
+      "revive": 85758,
+      "xlife": 15192,
+      "poison": 392365
+    }
+  },
+  {
+    "timestamp": "2026-03-11T17:00:00.000Z",
+    "consumables": {
+      "attack": 233155,
+      "revive": 85049,
+      "xlife": 15184,
+      "poison": 392055
+    }
+  },
+  {
+    "timestamp": "2026-03-11T18:00:00.000Z",
+    "consumables": {
+      "attack": 232375,
+      "revive": 84248,
+      "xlife": 15179,
+      "poison": 391359
+    }
+  },
+  {
+    "timestamp": "2026-03-11T19:00:00.000Z",
+    "consumables": {
+      "attack": 230432,
+      "revive": 83059,
+      "xlife": 15179,
+      "poison": 391159
+    }
+  },
+  {
+    "timestamp": "2026-03-11T20:00:00.000Z",
+    "consumables": {
+      "attack": 229043,
+      "revive": 82438,
+      "xlife": 15153,
+      "poison": 390322
+    }
+  },
+  {
+    "timestamp": "2026-03-11T21:00:00.000Z",
+    "consumables": {
+      "attack": 227106,
+      "revive": 82175,
+      "xlife": 15153,
+      "poison": 390322
+    }
+  },
+  {
+    "timestamp": "2026-03-11T22:00:00.000Z",
+    "consumables": {
+      "attack": 226614,
+      "revive": 81252,
+      "xlife": 15129,
+      "poison": 389391
+    }
+  },
+  {
+    "timestamp": "2026-03-11T23:00:00.000Z",
+    "consumables": {
+      "attack": 226338,
+      "revive": 80720,
+      "xlife": 15115,
+      "poison": 388479
+    }
+  },
+  {
+    "timestamp": "2026-03-12T00:00:00.000Z",
+    "consumables": {
+      "attack": 226067,
+      "revive": 80166,
+      "xlife": 15095,
+      "poison": 387595
+    }
+  },
+  {
+    "timestamp": "2026-03-12T01:00:00.000Z",
+    "consumables": {
+      "attack": 225722,
+      "revive": 79902,
+      "xlife": 15081,
+      "poison": 387375
+    }
+  },
+  {
+    "timestamp": "2026-03-12T02:00:00.000Z",
+    "consumables": {
+      "attack": 225231,
+      "revive": 80132,
+      "xlife": 15081,
+      "poison": 387247
+    }
+  },
+  {
+    "timestamp": "2026-03-12T03:00:00.000Z",
+    "consumables": {
+      "attack": 224049,
+      "revive": 79670,
+      "xlife": 15104,
+      "poison": 387017
+    }
+  },
+  {
+    "timestamp": "2026-03-12T04:00:00.000Z",
+    "consumables": {
+      "attack": 232070,
+      "revive": 81524,
+      "xlife": 15086,
+      "poison": 396706
+    }
+  },
+  {
+    "timestamp": "2026-03-12T05:00:00.000Z",
+    "consumables": {
+      "attack": 231268,
+      "revive": 81469,
+      "xlife": 15096,
+      "poison": 396446
+    }
+  },
+  {
+    "timestamp": "2026-03-12T06:00:00.000Z",
+    "consumables": {
+      "attack": 230268,
+      "revive": 80983,
+      "xlife": 15105,
+      "poison": 396080
+    }
+  },
+  {
+    "timestamp": "2026-03-12T07:00:00.000Z",
+    "consumables": {
+      "attack": 228253,
+      "revive": 81112,
+      "xlife": 15105,
+      "poison": 396744
+    }
+  },
+  {
+    "timestamp": "2026-03-12T08:00:00.000Z",
+    "consumables": {
+      "attack": 227035,
+      "revive": 80527,
+      "xlife": 15102,
+      "poison": 396582
+    }
+  },
+  {
+    "timestamp": "2026-03-12T09:00:00.000Z",
+    "consumables": {
+      "attack": 226836,
+      "revive": 80925,
+      "xlife": 15211,
+      "poison": 396322
+    }
+  },
+  {
+    "timestamp": "2026-03-12T10:00:00.000Z",
+    "consumables": {
+      "attack": 226720,
+      "revive": 79195,
+      "xlife": 15201,
+      "poison": 394082
+    }
+  },
+  {
+    "timestamp": "2026-03-12T11:00:00.000Z",
+    "consumables": {
+      "attack": 227509,
+      "revive": 77991,
+      "xlife": 15201,
+      "poison": 394082
+    }
+  },
+  {
+    "timestamp": "2026-03-12T12:00:00.000Z",
+    "consumables": {
+      "attack": 229358,
+      "revive": 78891,
+      "xlife": 15196,
+      "poison": 393848
+    }
+  },
+  {
+    "timestamp": "2026-03-12T13:00:00.000Z",
+    "consumables": {
+      "attack": 228501,
+      "revive": 87359,
+      "xlife": 17209,
+      "poison": 392984
+    }
+  },
+  {
+    "timestamp": "2026-03-12T14:00:00.000Z",
+    "consumables": {
+      "attack": 226348,
+      "revive": 92889,
+      "xlife": 17102,
+      "poison": 388851
+    }
+  },
+  {
+    "timestamp": "2026-03-12T15:00:00.000Z",
+    "consumables": {
+      "attack": 225607,
+      "revive": 92221,
+      "xlife": 17057,
+      "poison": 387401
+    }
+  },
+  {
+    "timestamp": "2026-03-12T16:00:00.000Z",
+    "consumables": {
+      "attack": 225609,
+      "revive": 92195,
+      "xlife": 16978,
+      "poison": 385653
+    }
+  },
+  {
+    "timestamp": "2026-03-12T17:00:00.000Z",
+    "consumables": {
+      "attack": 224470,
+      "revive": 90134,
+      "xlife": 16870,
+      "poison": 384535
+    }
+  },
+  {
+    "timestamp": "2026-03-12T18:00:00.000Z",
+    "consumables": {
+      "attack": 223910,
+      "revive": 94454,
+      "xlife": 16843,
+      "poison": 382852
+    }
+  },
+  {
+    "timestamp": "2026-03-12T19:00:00.000Z",
+    "consumables": {
+      "attack": 226474,
+      "revive": 93159,
+      "xlife": 16809,
+      "poison": 380762
+    }
+  },
+  {
+    "timestamp": "2026-03-12T20:00:00.000Z",
+    "consumables": {
+      "attack": 225720,
+      "revive": 91667,
+      "xlife": 16731,
+      "poison": 379207
+    }
+  },
+  {
+    "timestamp": "2026-03-12T21:00:00.000Z",
+    "consumables": {
+      "attack": 236615,
+      "revive": 102656,
+      "xlife": 16736,
+      "poison": 394989
+    }
+  },
+  {
+    "timestamp": "2026-03-12T22:00:00.000Z",
+    "consumables": {
+      "attack": 235244,
+      "revive": 105359,
+      "xlife": 16637,
+      "poison": 393078
+    }
+  },
+  {
+    "timestamp": "2026-03-12T23:00:00.000Z",
+    "consumables": {
+      "attack": 231859,
+      "revive": 104164,
+      "xlife": 16627,
+      "poison": 392928
+    }
+  },
+  {
+    "timestamp": "2026-03-13T00:00:00.000Z",
+    "consumables": {
+      "attack": 230220,
+      "revive": 107150,
+      "xlife": 16627,
+      "poison": 392862
+    }
+  },
+  {
+    "timestamp": "2026-03-13T01:00:00.000Z",
+    "consumables": {
+      "attack": 279109,
+      "revive": 114020,
+      "xlife": 16537,
+      "poison": 392722
+    }
+  },
+  {
+    "timestamp": "2026-03-13T02:00:00.000Z",
+    "consumables": {
+      "attack": 278330,
+      "revive": 112944,
+      "xlife": 16449,
+      "poison": 392362
+    }
+  },
+  {
+    "timestamp": "2026-03-13T03:00:00.000Z",
+    "consumables": {
+      "attack": 278163,
+      "revive": 112726,
+      "xlife": 16570,
+      "poison": 392259
+    }
+  },
+  {
+    "timestamp": "2026-03-13T04:00:00.000Z",
+    "consumables": {
+      "attack": 278683,
+      "revive": 110277,
+      "xlife": 16565,
+      "poison": 392259
+    }
+  },
+  {
+    "timestamp": "2026-03-13T05:00:00.000Z",
+    "consumables": {
+      "attack": 296505,
+      "revive": 124808,
+      "xlife": 17752,
+      "poison": 402009
+    }
+  },
+  {
+    "timestamp": "2026-03-13T06:00:00.000Z",
+    "consumables": {
+      "attack": 296202,
+      "revive": 123947,
+      "xlife": 17727,
+      "poison": 401859
+    }
+  },
+  {
+    "timestamp": "2026-03-13T07:00:00.000Z",
+    "consumables": {
+      "attack": 295194,
+      "revive": 123675,
+      "xlife": 17682,
+      "poison": 401819
+    }
+  },
+  {
+    "timestamp": "2026-03-13T08:00:00.000Z",
+    "consumables": {
+      "attack": 295194,
+      "revive": 123675,
+      "xlife": 17682,
+      "poison": 401819
+    }
+  },
+  {
+    "timestamp": "2026-03-13T09:00:00.000Z",
+    "consumables": {
+      "attack": 295104,
+      "revive": 123636,
+      "xlife": 17671,
+      "poison": 401785
+    }
+  },
+  {
+    "timestamp": "2026-03-13T10:00:00.000Z",
+    "consumables": {
+      "attack": 294435,
+      "revive": 123435,
+      "xlife": 17648,
+      "poison": 401545
+    }
+  },
+  {
+    "timestamp": "2026-03-13T11:00:00.000Z",
+    "consumables": {
+      "attack": 296100,
+      "revive": 124210,
+      "xlife": 17622,
+      "poison": 401681
+    }
+  },
+  {
+    "timestamp": "2026-03-13T12:00:00.000Z",
+    "consumables": {
+      "attack": 296246,
+      "revive": 125265,
+      "xlife": 17678,
+      "poison": 401376
+    }
+  },
+  {
+    "timestamp": "2026-03-13T13:00:00.000Z",
+    "consumables": {
+      "attack": 296757,
+      "revive": 126361,
+      "xlife": 17585,
+      "poison": 399626
+    }
+  },
+  {
+    "timestamp": "2026-03-13T13:55:19.699Z",
+    "consumables": {
+      "attack": 295088,
+      "revive": 126078,
+      "xlife": 17580,
+      "poison": 397987
     }
   }
 ];
