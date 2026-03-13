@@ -1,19 +1,24 @@
 #!/usr/bin/env node
 
 import { mkdir, writeFile } from "node:fs/promises";
-import { dirname } from "node:path";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
 
 const DEFAULT_BASE_URL = "https://summit-production-69ed.up.railway.app";
 const DEFAULT_START = "2026-02-19T00:00:00Z";
 const DEFAULT_BUCKET_MIN = 60;
+const SCRIPT_DIR = dirname(fileURLToPath(import.meta.url));
+const PROJECT_ROOT = dirname(SCRIPT_DIR);
+const DEFAULT_OUTPUT_JSONL = join(PROJECT_ROOT, "assets", "data", "global-stats-backfill.jsonl");
+const DEFAULT_OUTPUT_JS = join(PROJECT_ROOT, "assets", "data", "global-stats-backfill.js");
 
 function parseArgs(argv) {
   const opts = {
     baseUrl: DEFAULT_BASE_URL,
     startDate: DEFAULT_START,
     bucketMin: DEFAULT_BUCKET_MIN,
-    outputJsonl: "./assets/data/global-stats-backfill.jsonl",
-    outputJs: "./assets/data/global-stats-backfill.js",
+    outputJsonl: DEFAULT_OUTPUT_JSONL,
+    outputJs: DEFAULT_OUTPUT_JS,
     limit: 200,
   };
 
